@@ -5,8 +5,8 @@ library(dplyr)
 library(zoo)
 library(readr)
 
-Vaccine_Data <- read_excel("Desktop/College Courses/Math/Prob and Stats/Online Learning/Project/Vaccine Data.xlsx")
-`%notin%` <- Negate(`%in%`)
+setwd("Desktop/College Courses/Math/Prob and Stats/Online Learning/Project")
+Vaccine_Data <- read_excel("Vaccine Data.xlsx")`%notin%` <- Negate(`%in%`)
 Vaccine_Data <- Vaccine_Data[, which(Vaccine_Data[2,]  %notin% c("LL", "UL", "SAMPLE", "CI"))]
 Vaccine_Data[1,] <- t(apply(Vaccine_Data[1,], 1, function(x) na.locf(x, na.rm = F)))
 dat1 <- Vaccine_Data[, 1:155]
