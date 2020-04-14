@@ -42,3 +42,29 @@ dat1 <- full_join(dat1, dat1f, by = c("Names", "month"))
 
 dat1 <- gather(dat1, key = Age_Group, value = Vaccine, 3:8)
 dat1$Age_Group <- parse_number(dat1$Age_Group)
+
+dat2 <- Vaccine_Data[, c(1, 156:199)]
+dat2[1, 1] <- "State"
+colnames(dat2) <- dat2[2,]
+
+dat2a <- dat2[, which(dat2[1,]  %in% c("State", "White only, non-Hispanic"))]
+dat2b <- dat2[, which(dat2[1,]  %in% c("State", "Black only, non-Hispanic"))]
+dat2c <- dat2[, which(dat2[1,]  %in% c("State", "Hispanic"))]
+dat2d <- dat2[, which(dat2[1,]  %in% c("State", "Other or multiple races, non-Hispanic"))]
+
+dat2a <- dat2a[-1:-2,]
+dat2b <- dat2b[-1:-2,]
+dat2c <- dat2c[-1:-2,]
+dat2d <- dat2d[-1:-2,]
+
+dat2a <- gather(dat2a, key = month, value = white , 2:12)
+dat2b <- gather(dat2b, key = month, value = black, 2:12)
+dat2c <- gather(dat2c, key = month, value = hispanic, 2:12)
+dat2d <- gather(dat2d, key = month, value = other, 2:12)
+
+dat2 <- full_join(dat2a, dat2b, by = c("Names", "month"))
+dat2 <- full_join(dat2, dat2c, by = c("Names", "month"))
+dat2 <- full_join(dat2, dat2d, by = c("Names", "month"))
+
+dat2 <- gather(dat2, key = Race, value = Vaccine, 3:6)
+dat2$Race <- as.factor(dat2$Race)
