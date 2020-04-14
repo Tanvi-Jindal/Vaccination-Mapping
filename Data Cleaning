@@ -1,0 +1,44 @@
+library(readxl)
+library(stringr)
+library(tidyr)
+library(dplyr)
+library(zoo)
+library(readr)
+
+Vaccine_Data <- read_excel("Desktop/College Courses/Math/Prob and Stats/Online Learning/Project/Vaccine Data.xlsx")
+`%notin%` <- Negate(`%in%`)
+Vaccine_Data <- Vaccine_Data[, which(Vaccine_Data[2,]  %notin% c("LL", "UL", "SAMPLE", "CI"))]
+Vaccine_Data[1,] <- t(apply(Vaccine_Data[1,], 1, function(x) na.locf(x, na.rm = F)))
+dat1 <- Vaccine_Data[, 1:155]
+dat1[1, 1] <- "State"
+colnames(dat1) <- dat1[2,]
+
+dat1a <- dat1[, which(dat1[1,]  %in% c("State", "6 months - 4 years"))]
+dat1b <- dat1[, which(dat1[1,]  %in% c("State", "5-12 years"))]
+dat1c <- dat1[, which(dat1[1,]  %in% c("State", "13-17 years"))]
+dat1d <- dat1[, which(dat1[1,]  %in% c("State", "18-49 years"))]
+dat1e <- dat1[, which(dat1[1,]  %in% c("State", "50-64 years"))]
+dat1f <- dat1[, which(dat1[1,]  %in% c("State", "≥65 years"))]
+
+dat1a <- dat1a[-1:-2,]
+dat1b <- dat1b[-1:-2,]
+dat1c <- dat1c[-1:-2,]
+dat1d <- dat1d[-1:-2,]
+dat1e <- dat1e[-1:-2,]
+dat1f <- dat1f[-1:-2,]
+
+dat1a <- gather(dat1a, key = month, value = vaccine_group1 , 2:12)
+dat1b <- gather(dat1b, key = month, value = vaccine_group2, 2:12)
+dat1c <- gather(dat1c, key = month, value = vaccine_group3, 2:12)
+dat1d <- gather(dat1d, key = month, value = vaccine_group4, 2:12)
+dat1e <- gather(dat1e, key = month, value = vaccine_group5, 2:12)
+dat1f <- gather(dat1f, key = month, value = vaccine_group6, 2:12)
+
+dat1 <- full_join(dat1a, dat1b, by = c("Names", "month"))
+dat1 <- full_join(dat1, dat1c, by = c("Names", "month"))
+dat1 <- full_join(dat1, dat1d, by = c("Names", "month"))
+dat1 <- full_join(dat1, dat1e, by = c("Names", "month"))
+dat1 <- full_join(dat1, dat1f, by = c("Names", "month"))
+
+dat1 <- gather(dat1, key = Age_Group, value = Vaccine, 3:8)
+dat1$Age_Group <- parse_number(dat1$Age_Group)
