@@ -1,8 +1,16 @@
-
 age_dat <- read.csv("https://raw.githubusercontent.com/Tanvi-Jindal/Vaccination-Mapping/master/age_data.csv")
-qqnorm(age_dat$Vaccine)
-qqline(age_dat$Vaccine)
+age_dat <- age_dat[ which(age_dat$Month != "Jul"), ]
+qqnorm(age_dat$Republican.Rep.)
+qqline(age_dat$Republican.Rep.)
 hist(age_dat$Population)
 
-model1 <- lm(data = age_dat, Vaccine ~ Region+Month+Age_Group+Population)
+model1 <- lm(data = dat1, Vaccine ~ Democratics.Rep.+Season+as.factor(Age_Group)+log(Population))
 summary(model1)
+qqnorm(model1$residuals)
+qqline(model1$residuals)
+
+race_dat <- read.csv("https://raw.githubusercontent.com/Tanvi-Jindal/Vaccination-Mapping/master/race_data.csv")
+model2 <- lm(data = race_dat, Vaccine ~ Democratics.Rep. + Season + Race + log(Population))
+summary(model2)
+qqnorm(model2$residuals)
+qqline(model2$residuals)
