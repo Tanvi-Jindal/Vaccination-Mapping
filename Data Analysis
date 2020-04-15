@@ -1,16 +1,38 @@
+library(ggplot2)
+library(mosaic)
 age_dat <- read.csv("https://raw.githubusercontent.com/Tanvi-Jindal/Vaccination-Mapping/master/age_data.csv")
 age_dat <- age_dat[ which(age_dat$Month != "Jul"), ]
-qqnorm(age_dat$Republican.Rep.)
-qqline(age_dat$Republican.Rep.)
-hist(age_dat$Population)
-
-model1 <- lm(data = dat1, Vaccine ~ Democratics.Rep.+Season+as.factor(Age_Group)+log(Population))
+qqnorm(age_dat$Democratics.Rep.)
+qqline(age_dat$Democratics.Rep.)
+hist(age_dat$Democratics.Rep.)
+age_dat <- na.omit(age_dat)
+age_dat$Age_Group <- as.factor(age_dat$Age_Group)
+model1 <- lm(data = age_dat, Vaccine ~ Republican.Rep.+Season+Age_Group+log(Population))
 summary(model1)
 qqnorm(model1$residuals)
 qqline(model1$residuals)
 
+mod <- data.frame(age_dat, model1$residuals, model1$fitted.values)
+mplot(mod)
+
 race_dat <- read.csv("https://raw.githubusercontent.com/Tanvi-Jindal/Vaccination-Mapping/master/race_data.csv")
-model2 <- lm(data = race_dat, Vaccine ~ Democratics.Rep. + Season + Race + log(Population))
+race_dat <- race_dat[ which(age_dat$Month != "Jul"), ]
+
+model2 <- lm(data = race_dat, Vaccine ~ Democratics.Rep. +Season + Race + log(Population))
 summary(model2)
 qqnorm(model2$residuals)
 qqline(model2$residuals)
+
+#for the data
+qqnorm(age_dat$Vaccine)
+qqline(age_dat$Vaccine)
+hist(age_dat$Vaccine) #We can see another peak around 0
+ggplot(age_dat, aes(Vaccine))+geom_density()
+ggplot(age_dat, aes(Vaccine, color = Season))+geom_density()
+ggplot(age_dat, aes(Vaccine, color = Age_Group))+geom_density()
+
+qqnorm(age_dat$Population)
+qqline(age_dat$Population)
+ggplot(age_dat, aes(Population))+geom_density()
+age_dat$PopLog <- log(age_dat$Population)
+ggplot(age_dat, aes(PopLog))+geom_density()
