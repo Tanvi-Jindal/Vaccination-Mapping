@@ -53,6 +53,15 @@ pop <- gather(pop, key = Age_Group, value = Population, 2:5)
 pop$Age_Group <- parse_number(pop$Age_Group)
 dat1 <- inner_join(dat1, pop, by = c("State", "Age_Group"))
 
+Politics <- read.csv("https://raw.githubusercontent.com/Tanvi-Jindal/Vaccination-Mapping/master/Politics.csv")
+dat1 <- full_join(dat1, Politics,by = "State")
+
+region <- read.csv("https://raw.githubusercontent.com/cphalpert/census-regions/master/us%20census%20bureau%20regions%20and%20divisions.csv")
+region <- select(region, State, Region)
+dat1 <- inner_join(dat1, region, by = "State")
+dat1$Season <- ifelse(dat1$Month == "Dec" | dat1$Month == "Jan" | dat1$Month == "Feb" | dat1$Month == "March", "Flu",
+                      ifelse(dat1$Month == "Sep" | dat1$Month == "Oct" | dat1$Month == "Nov", "Near", "Far"))
+
 write.csv(dat1, "age_data.csv")
 
 dat2 <- Vaccine_Data[, c(1, 156:199)]
@@ -79,11 +88,17 @@ dat2 <- full_join(dat2, dat2c, by = c("Names", "month"))
 dat2 <- full_join(dat2, dat2d, by = c("Names", "month"))
 
 dat2 <- gather(dat2, key = Race, value = Vaccine, 3:6)
+dat2$Vaccine <- as.numeric(dat2$Vaccine)
 
 pop <- read.csv("https://raw.githubusercontent.com/Tanvi-Jindal/Vaccination-Mapping/master/Population%20density%20by%20race%20by%20state.csv")
 pop <- gather(pop, key = Race, value = Population, 2:5)
 pop$Race <- recode(pop$Race, "Non.Hispanic.White" = "White", "Non.Hispanic.Black" = "Black", "Hispanic." = "Hispanic")
 colnames(dat2) <- c("State", "Month", "Race", "Vaccine")
 dat2 <- inner_join(dat2, pop, by = c("State", "Race"))
+dat2 <- full_join(dat2, Politics,by = "State")
+
+dat2 <- inner_join(dat2, region, by = "State")
+dat2$Season <- ifelse(dat2$Month == "Dec" | dat2$Month == "Jan" | dat2$Month == "Feb" | dat2$Month == "March", "Flu",
+                      ifelse(dat2$Month == "Sep" | dat2$Month == "Oct" | dat2$Month == "Nov", "Near", "Far"))
 
 write.csv(dat2, "race_data.csv")
