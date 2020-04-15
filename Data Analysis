@@ -1,0 +1,8 @@
+
+age_dat <- read.csv("https://raw.githubusercontent.com/Tanvi-Jindal/Vaccination-Mapping/master/age_data.csv")
+qqnorm(age_dat$Vaccine)
+qqline(age_dat$Vaccine)
+hist(age_dat$Population)
+
+model1 <- lm(data = age_dat, Vaccine ~ Region+Month+Age_Group+Population)
+summary(model1)
