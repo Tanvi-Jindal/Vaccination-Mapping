@@ -1,0 +1,2245 @@
+,State,Month,Age,Vaccine,Republican.Rep.,Democratics.Rep.,Region,Season
+1,Alabama,Jul,1,0.9,0.52,0.35,South,Far
+2,Alaska,Jul,1,0,0.39,0.32,West,Far
+3,Arizona,Jul,1,0.733333333,0.4,0.39,West,Far
+4,Arkansas,Jul,1,0,0.46,0.38,South,Far
+5,California,Jul,1,1.5,0.3,0.49,West,Far
+6,Colorado,Jul,1,0,0.41,0.42,West,Far
+7,Connecticut,Jul,1,0,0.32,0.5,Northeast,Far
+8,Delaware,Jul,1,0.766666667,0.29,0.55,South,Far
+9,District of Columbia,Jul,1,1.533333333,NA,NA,South,Far
+10,Florida,Jul,1,1.7,0.37,0.44,South,Far
+11,Georgia,Jul,1,0.6,0.41,0.41,South,Far
+12,Hawaii,Jul,1,1.866666667,0.28,0.51,West,Far
+13,Idaho,Jul,1,0,0.49,0.32,West,Far
+14,Illinois,Jul,1,1.033333333,0.33,0.48,Midwest,Far
+15,Indiana,Jul,1,0,0.42,0.37,Midwest,Far
+16,Iowa,Jul,1,0,0.41,0.4,Midwest,Far
+17,Kansas,Jul,1,0,0.46,0.31,Midwest,Far
+18,Kentucky,Jul,1,0,0.44,0.43,South,Far
+19,Louisiana,Jul,1,0.866666667,0.41,0.43,South,Far
+20,Maine,Jul,1,0,0.36,0.47,Northeast,Far
+21,9yland,Jul,1,1,0.31,0.55,South,Far
+22,Massachusetts,Jul,1,1.566666667,0.27,0.56,Northeast,Far
+23,Michigan,Jul,1,0,0.34,0.47,Midwest,Far
+24,Minnesota,Jul,1,0,0.39,0.46,Midwest,Far
+25,Mississippi,Jul,1,0.466666667,0.44,0.42,South,Far
+26,Missouri,Jul,1,0,0.41,0.42,Midwest,Far
+27,Montana,Jul,1,0,0.49,0.3,West,Far
+28,Nebraska,Jul,1,0,0.47,0.36,Midwest,Far
+29,Nevada,Jul,1,0,0.37,0.46,West,Far
+30,New Hampshire,Jul,1,0,0.35,0.44,Northeast,Far
+31,New Jersey,Jul,1,0.7,0.3,0.51,Northeast,Far
+32,New Mexico,Jul,1,0.4,0.37,0.48,West,Far
+33,New York,Jul,1,1.233333333,0.28,0.53,Northeast,Far
+34,North Carolina,Jul,1,1.1,0.41,0.43,South,Far
+35,North Dakota,Jul,1,0,0.5,0.33,Midwest,Far
+36,Ohio,Jul,1,0,0.42,0.4,Midwest,Far
+37,Oklahoma,Jul,1,0,0.45,0.4,South,Far
+38,Oregon,Jul,1,0,0.32,0.47,West,Far
+39,Pennsylvania,Jul,1,1.166666667,0.39,0.46,Northeast,Far
+40,Rhode Island,Jul,1,1.133333333,0.3,0.48,Northeast,Far
+41,South Carolina,Jul,1,1.366666667,0.43,0.39,South,Far
+42,South Dakota,Jul,1,0,0.53,0.37,Midwest,Far
+43,Tennessee,Jul,1,0,0.48,0.36,South,Far
+44,Texas,Jul,1,2.066666667,0.39,0.4,South,Far
+45,Utah,Jul,1,0,0.54,0.3,West,Far
+46,Vermont,Jul,1,0,0.29,0.57,Northeast,Far
+47,Virginia,Jul,1,0,0.43,0.39,South,Far
+48,Washington,Jul,1,1.3,0.33,0.44,West,Far
+49,West Virginia,Jul,1,0,0.43,0.41,South,Far
+50,Wisconsin,Jul,1,0.633333333,0.42,0.42,Midwest,Far
+51,Wyoming,Jul,1,0,0.57,0.25,West,Far
+52,Alabama,Aug,1,5.9,0.52,0.35,South,Far
+53,Alaska,Aug,1,5.466666667,0.39,0.32,West,Far
+54,Arizona,Aug,1,6.966666667,0.4,0.39,West,Far
+55,Arkansas,Aug,1,3.533333333,0.46,0.38,South,Far
+56,California,Aug,1,7.566666667,0.3,0.49,West,Far
+57,Colorado,Aug,1,5.166666667,0.41,0.42,West,Far
+58,Connecticut,Aug,1,5.5,0.32,0.5,Northeast,Far
+59,Delaware,Aug,1,6.6,0.29,0.55,South,Far
+60,District of Columbia,Aug,1,8.1,NA,NA,South,Far
+61,Florida,Aug,1,9.1,0.37,0.44,South,Far
+62,Georgia,Aug,1,6.8,0.41,0.41,South,Far
+63,Hawaii,Aug,1,8.933333333,0.28,0.51,West,Far
+64,Idaho,Aug,1,0.833333333,0.49,0.32,West,Far
+65,Illinois,Aug,1,6.1,0.33,0.48,Midwest,Far
+66,Indiana,Aug,1,5.666666667,0.42,0.37,Midwest,Far
+67,Iowa,Aug,1,4.533333333,0.41,0.4,Midwest,Far
+68,Kansas,Aug,1,6,0.46,0.31,Midwest,Far
+69,Kentucky,Aug,1,8.333333333,0.44,0.43,South,Far
+70,Louisiana,Aug,1,6.433333333,0.41,0.43,South,Far
+71,Maine,Aug,1,2.9,0.36,0.47,Northeast,Far
+72,9yland,Aug,1,5.066666667,0.31,0.55,South,Far
+73,Massachusetts,Aug,1,5.833333333,0.27,0.56,Northeast,Far
+74,Michigan,Aug,1,3.533333333,0.34,0.47,Midwest,Far
+75,Minnesota,Aug,1,1.966666667,0.39,0.46,Midwest,Far
+76,Mississippi,Aug,1,4.666666667,0.44,0.42,South,Far
+77,Missouri,Aug,1,5.366666667,0.41,0.42,Midwest,Far
+78,Montana,Aug,1,2.533333333,0.49,0.3,West,Far
+79,Nebraska,Aug,1,5.266666667,0.47,0.36,Midwest,Far
+80,Nevada,Aug,1,5.766666667,0.37,0.46,West,Far
+81,New Hampshire,Aug,1,2.7,0.35,0.44,Northeast,Far
+82,New Jersey,Aug,1,5.066666667,0.3,0.51,Northeast,Far
+83,New Mexico,Aug,1,6.433333333,0.37,0.48,West,Far
+84,New York,Aug,1,5.766666667,0.28,0.53,Northeast,Far
+85,North Carolina,Aug,1,7.3,0.41,0.43,South,Far
+86,North Dakota,Aug,1,4.3,0.5,0.33,Midwest,Far
+87,Ohio,Aug,1,4.666666667,0.42,0.4,Midwest,Far
+88,Oklahoma,Aug,1,5.1,0.45,0.4,South,Far
+89,Oregon,Aug,1,4.166666667,0.32,0.47,West,Far
+90,Pennsylvania,Aug,1,5.3,0.39,0.46,Northeast,Far
+91,Rhode Island,Aug,1,3.6,0.3,0.48,Northeast,Far
+92,South Carolina,Aug,1,6.3,0.43,0.39,South,Far
+93,South Dakota,Aug,1,1.9,0.53,0.37,Midwest,Far
+94,Tennessee,Aug,1,5.033333333,0.48,0.36,South,Far
+95,Texas,Aug,1,7.433333333,0.39,0.4,South,Far
+96,Utah,Aug,1,2.066666667,0.54,0.3,West,Far
+97,Vermont,Aug,1,1.6,0.29,0.57,Northeast,Far
+98,Virginia,Aug,1,6.266666667,0.43,0.39,South,Far
+99,Washington,Aug,1,6.233333333,0.33,0.44,West,Far
+100,West Virginia,Aug,1,5.033333333,0.43,0.41,South,Far
+101,Wisconsin,Aug,1,4.333333333,0.42,0.42,Midwest,Far
+102,Wyoming,Aug,1,1.7,0.57,0.25,West,Far
+103,Alabama,Sep,1,16.93333333,0.52,0.35,South,Near
+104,Alaska,Sep,1,13.7,0.39,0.32,West,Near
+105,Arizona,Sep,1,16.56666667,0.4,0.39,West,Near
+106,Arkansas,Sep,1,14.16666667,0.46,0.38,South,Near
+107,California,Sep,1,20.26666667,0.3,0.49,West,Near
+108,Colorado,Sep,1,16.03333333,0.41,0.42,West,Near
+109,Connecticut,Sep,1,18.23333333,0.32,0.5,Northeast,Near
+110,Delaware,Sep,1,18.46666667,0.29,0.55,South,Near
+111,District of Columbia,Sep,1,21.9,NA,NA,South,Near
+112,Florida,Sep,1,20.26666667,0.37,0.44,South,Near
+113,Georgia,Sep,1,17.43333333,0.41,0.41,South,Near
+114,Hawaii,Sep,1,18.66666667,0.28,0.51,West,Near
+115,Idaho,Sep,1,10.4,0.49,0.32,West,Near
+116,Illinois,Sep,1,15.9,0.33,0.48,Midwest,Near
+117,Indiana,Sep,1,15.23333333,0.42,0.37,Midwest,Near
+118,Iowa,Sep,1,15.8,0.41,0.4,Midwest,Near
+119,Kansas,Sep,1,13.6,0.46,0.31,Midwest,Near
+120,Kentucky,Sep,1,17.56666667,0.44,0.43,South,Near
+121,Louisiana,Sep,1,16.33333333,0.41,0.43,South,Near
+122,Maine,Sep,1,13.5,0.36,0.47,Northeast,Near
+123,9yland,Sep,1,19.1,0.31,0.55,South,Near
+124,Massachusetts,Sep,1,22.46666667,0.27,0.56,Northeast,Near
+125,Michigan,Sep,1,14.93333333,0.34,0.47,Midwest,Near
+126,Minnesota,Sep,1,16.06666667,0.39,0.46,Midwest,Near
+127,Mississippi,Sep,1,12.5,0.44,0.42,South,Near
+128,Missouri,Sep,1,13.8,0.41,0.42,Midwest,Near
+129,Montana,Sep,1,10.1,0.49,0.3,West,Near
+130,Nebraska,Sep,1,14.7,0.47,0.36,Midwest,Near
+131,Nevada,Sep,1,14.23333333,0.37,0.46,West,Near
+132,New Hampshire,Sep,1,15.4,0.35,0.44,Northeast,Near
+133,New Jersey,Sep,1,19.7,0.3,0.51,Northeast,Near
+134,New Mexico,Sep,1,16.1,0.37,0.48,West,Near
+135,New York,Sep,1,19.13333333,0.28,0.53,Northeast,Near
+136,North Carolina,Sep,1,16.33333333,0.41,0.43,South,Near
+137,North Dakota,Sep,1,15.3,0.5,0.33,Midwest,Near
+138,Ohio,Sep,1,15.56666667,0.42,0.4,Midwest,Near
+139,Oklahoma,Sep,1,13.2,0.45,0.4,South,Near
+140,Oregon,Sep,1,13.36666667,0.32,0.47,West,Near
+141,Pennsylvania,Sep,1,19.73333333,0.39,0.46,Northeast,Near
+142,Rhode Island,Sep,1,18.2,0.3,0.48,Northeast,Near
+143,South Carolina,Sep,1,14.8,0.43,0.39,South,Near
+144,South Dakota,Sep,1,10.83333333,0.53,0.37,Midwest,Near
+145,Tennessee,Sep,1,17.23333333,0.48,0.36,South,Near
+146,Texas,Sep,1,18.4,0.39,0.4,South,Near
+147,Utah,Sep,1,13.43333333,0.54,0.3,West,Near
+148,Vermont,Sep,1,10.86666667,0.29,0.57,Northeast,Near
+149,Virginia,Sep,1,20.6,0.43,0.39,South,Near
+150,Washington,Sep,1,17,0.33,0.44,West,Near
+151,West Virginia,Sep,1,12.76666667,0.43,0.41,South,Near
+152,Wisconsin,Sep,1,13.96666667,0.42,0.42,Midwest,Near
+153,Wyoming,Sep,1,8.4,0.57,0.25,West,Near
+154,Alabama,Oct,1,37.7,0.52,0.35,South,Near
+155,Alaska,Oct,1,33.53333333,0.39,0.32,West,Near
+156,Arizona,Oct,1,34.4,0.4,0.39,West,Near
+157,Arkansas,Oct,1,41.46666667,0.46,0.38,South,Near
+158,California,Oct,1,39.06666667,0.3,0.49,West,Near
+159,Colorado,Oct,1,43.76666667,0.41,0.42,West,Near
+160,Connecticut,Oct,1,43.86666667,0.32,0.5,Northeast,Near
+161,Delaware,Oct,1,40.26666667,0.29,0.55,South,Near
+162,District of Columbia,Oct,1,47.7,NA,NA,South,Near
+163,Florida,Oct,1,36.6,0.37,0.44,South,Near
+164,Georgia,Oct,1,36.43333333,0.41,0.41,South,Near
+165,Hawaii,Oct,1,40.16666667,0.28,0.51,West,Near
+166,Idaho,Oct,1,30.86666667,0.49,0.32,West,Near
+167,Illinois,Oct,1,37.9,0.33,0.48,Midwest,Near
+168,Indiana,Oct,1,35.06666667,0.42,0.37,Midwest,Near
+169,Iowa,Oct,1,44.03333333,0.41,0.4,Midwest,Near
+170,Kansas,Oct,1,41.86666667,0.46,0.31,Midwest,Near
+171,Kentucky,Oct,1,40.8,0.44,0.43,South,Near
+172,Louisiana,Oct,1,34.96666667,0.41,0.43,South,Near
+173,Maine,Oct,1,39.1,0.36,0.47,Northeast,Near
+174,9yland,Oct,1,46.8,0.31,0.55,South,Near
+175,Massachusetts,Oct,1,50.96666667,0.27,0.56,Northeast,Near
+176,Michigan,Oct,1,36,0.34,0.47,Midwest,Near
+177,Minnesota,Oct,1,42.2,0.39,0.46,Midwest,Near
+178,Mississippi,Oct,1,30.1,0.44,0.42,South,Near
+179,Missouri,Oct,1,33.63333333,0.41,0.42,Midwest,Near
+180,Montana,Oct,1,36.13333333,0.49,0.3,West,Near
+181,Nebraska,Oct,1,41.43333333,0.47,0.36,Midwest,Near
+182,Nevada,Oct,1,32.26666667,0.37,0.46,West,Near
+183,New Hampshire,Oct,1,42.13333333,0.35,0.44,Northeast,Near
+184,New Jersey,Oct,1,44.63333333,0.3,0.51,Northeast,Near
+185,New Mexico,Oct,1,40.93333333,0.37,0.48,West,Near
+186,New York,Oct,1,41.9,0.28,0.53,Northeast,Near
+187,North Carolina,Oct,1,38.06666667,0.41,0.43,South,Near
+188,North Dakota,Oct,1,45.8,0.5,0.33,Midwest,Near
+189,Ohio,Oct,1,37.23333333,0.42,0.4,Midwest,Near
+190,Oklahoma,Oct,1,36.9,0.45,0.4,South,Near
+191,Oregon,Oct,1,35.53333333,0.32,0.47,West,Near
+192,Pennsylvania,Oct,1,45.2,0.39,0.46,Northeast,Near
+193,Rhode Island,Oct,1,50.53333333,0.3,0.48,Northeast,Near
+194,South Carolina,Oct,1,33.83333333,0.43,0.39,South,Near
+195,South Dakota,Oct,1,40.36666667,0.53,0.37,Midwest,Near
+196,Tennessee,Oct,1,40.7,0.48,0.36,South,Near
+197,Texas,Oct,1,38.8,0.39,0.4,South,Near
+198,Utah,Oct,1,37.3,0.54,0.3,West,Near
+199,Vermont,Oct,1,34.86666667,0.29,0.57,Northeast,Near
+200,Virginia,Oct,1,46.86666667,0.43,0.39,South,Near
+201,Washington,Oct,1,40.6,0.33,0.44,West,Near
+202,West Virginia,Oct,1,35.83333333,0.43,0.41,South,Near
+203,Wisconsin,Oct,1,38.16666667,0.42,0.42,Midwest,Near
+204,Wyoming,Oct,1,29.56666667,0.57,0.25,West,Near
+205,Alabama,Nov,1,48,0.52,0.35,South,Near
+206,Alaska,Nov,1,42.86666667,0.39,0.32,West,Near
+207,Arizona,Nov,1,43.53333333,0.4,0.39,West,Near
+208,Arkansas,Nov,1,54.33333333,0.46,0.38,South,Near
+209,California,Nov,1,51.46666667,0.3,0.49,West,Near
+210,Colorado,Nov,1,54.26666667,0.41,0.42,West,Near
+211,Connecticut,Nov,1,60.36666667,0.32,0.5,Northeast,Near
+212,Delaware,Nov,1,55.03333333,0.29,0.55,South,Near
+213,District of Columbia,Nov,1,60.73333333,NA,NA,South,Near
+214,Florida,Nov,1,45.16666667,0.37,0.44,South,Near
+215,Georgia,Nov,1,45.26666667,0.41,0.41,South,Near
+216,Hawaii,Nov,1,51.2,0.28,0.51,West,Near
+217,Idaho,Nov,1,40.6,0.49,0.32,West,Near
+218,Illinois,Nov,1,49.8,0.33,0.48,Midwest,Near
+219,Indiana,Nov,1,46.13333333,0.42,0.37,Midwest,Near
+220,Iowa,Nov,1,57.96666667,0.41,0.4,Midwest,Near
+221,Kansas,Nov,1,55.4,0.46,0.31,Midwest,Near
+222,Kentucky,Nov,1,54.96666667,0.44,0.43,South,Near
+223,Louisiana,Nov,1,46.53333333,0.41,0.43,South,Near
+224,Maine,Nov,1,53.8,0.36,0.47,Northeast,Near
+225,9yland,Nov,1,61.4,0.31,0.55,South,Near
+226,Massachusetts,Nov,1,65,0.27,0.56,Northeast,Near
+227,Michigan,Nov,1,45.53333333,0.34,0.47,Midwest,Near
+228,Minnesota,Nov,1,56.53333333,0.39,0.46,Midwest,Near
+229,Mississippi,Nov,1,40.23333333,0.44,0.42,South,Near
+230,Missouri,Nov,1,45.9,0.41,0.42,Midwest,Near
+231,Montana,Nov,1,47.13333333,0.49,0.3,West,Near
+232,Nebraska,Nov,1,56.7,0.47,0.36,Midwest,Near
+233,Nevada,Nov,1,42.26666667,0.37,0.46,West,Near
+234,New Hampshire,Nov,1,58.1,0.35,0.44,Northeast,Near
+235,New Jersey,Nov,1,59.96666667,0.3,0.51,Northeast,Near
+236,New Mexico,Nov,1,55.16666667,0.37,0.48,West,Near
+237,New York,Nov,1,56.63333333,0.28,0.53,Northeast,Near
+238,North Carolina,Nov,1,50.86666667,0.41,0.43,South,Near
+239,North Dakota,Nov,1,58.16666667,0.5,0.33,Midwest,Near
+240,Ohio,Nov,1,49.8,0.42,0.4,Midwest,Near
+241,Oklahoma,Nov,1,46.6,0.45,0.4,South,Near
+242,Oregon,Nov,1,48.06666667,0.32,0.47,West,Near
+243,Pennsylvania,Nov,1,57.53333333,0.39,0.46,Northeast,Near
+244,Rhode Island,Nov,1,66.83333333,0.3,0.48,Northeast,Near
+245,South Carolina,Nov,1,46.46666667,0.43,0.39,South,Near
+246,South Dakota,Nov,1,55.9,0.53,0.37,Midwest,Near
+247,Tennessee,Nov,1,50.83333333,0.48,0.36,South,Near
+248,Texas,Nov,1,49.73333333,0.39,0.4,South,Near
+249,Utah,Nov,1,46.3,0.54,0.3,West,Near
+250,Vermont,Nov,1,49,0.29,0.57,Northeast,Near
+251,Virginia,Nov,1,60.53333333,0.43,0.39,South,Near
+252,Washington,Nov,1,52.56666667,0.33,0.44,West,Near
+253,West Virginia,Nov,1,46.5,0.43,0.41,South,Near
+254,Wisconsin,Nov,1,50.93333333,0.42,0.42,Midwest,Near
+255,Wyoming,Nov,1,38.7,0.57,0.25,West,Near
+256,Alabama,Dec,1,52.3,0.52,0.35,South,Flu
+257,Alaska,Dec,1,46.63333333,0.39,0.32,West,Flu
+258,Arizona,Dec,1,49.6,0.4,0.39,West,Flu
+259,Arkansas,Dec,1,57.8,0.46,0.38,South,Flu
+260,California,Dec,1,55.13333333,0.3,0.49,West,Flu
+261,Colorado,Dec,1,57.96666667,0.41,0.42,West,Flu
+262,Connecticut,Dec,1,67.46666667,0.32,0.5,Northeast,Flu
+263,Delaware,Dec,1,59.83333333,0.29,0.55,South,Flu
+264,District of Columbia,Dec,1,65.93333333,NA,NA,South,Flu
+265,Florida,Dec,1,49.13333333,0.37,0.44,South,Flu
+266,Georgia,Dec,1,49.53333333,0.41,0.41,South,Flu
+267,Hawaii,Dec,1,54.53333333,0.28,0.51,West,Flu
+268,Idaho,Dec,1,44.2,0.49,0.32,West,Flu
+269,Illinois,Dec,1,53.56666667,0.33,0.48,Midwest,Flu
+270,Indiana,Dec,1,50.26666667,0.42,0.37,Midwest,Flu
+271,Iowa,Dec,1,62.5,0.41,0.4,Midwest,Flu
+272,Kansas,Dec,1,58.56666667,0.46,0.31,Midwest,Flu
+273,Kentucky,Dec,1,58.13333333,0.44,0.43,South,Flu
+274,Louisiana,Dec,1,51.66666667,0.41,0.43,South,Flu
+275,Maine,Dec,1,58.63333333,0.36,0.47,Northeast,Flu
+276,9yland,Dec,1,66.5,0.31,0.55,South,Flu
+277,Massachusetts,Dec,1,72.06666667,0.27,0.56,Northeast,Flu
+278,Michigan,Dec,1,50.1,0.34,0.47,Midwest,Flu
+279,Minnesota,Dec,1,59.6,0.39,0.46,Midwest,Flu
+280,Mississippi,Dec,1,43.96666667,0.44,0.42,South,Flu
+281,Missouri,Dec,1,50.4,0.41,0.42,Midwest,Flu
+282,Montana,Dec,1,50.76666667,0.49,0.3,West,Flu
+283,Nebraska,Dec,1,61.46666667,0.47,0.36,Midwest,Flu
+284,Nevada,Dec,1,46.56666667,0.37,0.46,West,Flu
+285,New Hampshire,Dec,1,61.6,0.35,0.44,Northeast,Flu
+286,New Jersey,Dec,1,65.6,0.3,0.51,Northeast,Flu
+287,New Mexico,Dec,1,61.2,0.37,0.48,West,Flu
+288,New York,Dec,1,62.93333333,0.28,0.53,Northeast,Flu
+289,North Carolina,Dec,1,57.03333333,0.41,0.43,South,Flu
+290,North Dakota,Dec,1,60.4,0.5,0.33,Midwest,Flu
+291,Ohio,Dec,1,53,0.42,0.4,Midwest,Flu
+292,Oklahoma,Dec,1,50.33333333,0.45,0.4,South,Flu
+293,Oregon,Dec,1,52.76666667,0.32,0.47,West,Flu
+294,Pennsylvania,Dec,1,62.9,0.39,0.46,Northeast,Flu
+295,Rhode Island,Dec,1,71.9,0.3,0.48,Northeast,Flu
+296,South Carolina,Dec,1,50.4,0.43,0.39,South,Flu
+297,South Dakota,Dec,1,59.7,0.53,0.37,Midwest,Flu
+298,Tennessee,Dec,1,55.6,0.48,0.36,South,Flu
+299,Texas,Dec,1,54.33333333,0.39,0.4,South,Flu
+300,Utah,Dec,1,50.8,0.54,0.3,West,Flu
+301,Vermont,Dec,1,55.2,0.29,0.57,Northeast,Flu
+302,Virginia,Dec,1,64,0.43,0.39,South,Flu
+303,Washington,Dec,1,56.53333333,0.33,0.44,West,Flu
+304,West Virginia,Dec,1,51.16666667,0.43,0.41,South,Flu
+305,Wisconsin,Dec,1,54.76666667,0.42,0.42,Midwest,Flu
+306,Wyoming,Dec,1,40.5,0.57,0.25,West,Flu
+307,Alabama,Jan,1,55.6,0.52,0.35,South,Flu
+308,Alaska,Jan,1,50.13333333,0.39,0.32,West,Flu
+309,Arizona,Jan,1,52.96666667,0.4,0.39,West,Flu
+310,Arkansas,Jan,1,60.7,0.46,0.38,South,Flu
+311,California,Jan,1,59.2,0.3,0.49,West,Flu
+312,Colorado,Jan,1,60.86666667,0.41,0.42,West,Flu
+313,Connecticut,Jan,1,70.83333333,0.32,0.5,Northeast,Flu
+314,Delaware,Jan,1,62.73333333,0.29,0.55,South,Flu
+315,District of Columbia,Jan,1,68.56666667,NA,NA,South,Flu
+316,Florida,Jan,1,51.56666667,0.37,0.44,South,Flu
+317,Georgia,Jan,1,52.2,0.41,0.41,South,Flu
+318,Hawaii,Jan,1,56.66666667,0.28,0.51,West,Flu
+319,Idaho,Jan,1,46.9,0.49,0.32,West,Flu
+320,Illinois,Jan,1,56.4,0.33,0.48,Midwest,Flu
+321,Indiana,Jan,1,52.56666667,0.42,0.37,Midwest,Flu
+322,Iowa,Jan,1,63.6,0.41,0.4,Midwest,Flu
+323,Kansas,Jan,1,59.8,0.46,0.31,Midwest,Flu
+324,Kentucky,Jan,1,61.1,0.44,0.43,South,Flu
+325,Louisiana,Jan,1,54.56666667,0.41,0.43,South,Flu
+326,Maine,Jan,1,60.9,0.36,0.47,Northeast,Flu
+327,9yland,Jan,1,69.36666667,0.31,0.55,South,Flu
+328,Massachusetts,Jan,1,74.23333333,0.27,0.56,Northeast,Flu
+329,Michigan,Jan,1,52.2,0.34,0.47,Midwest,Flu
+330,Minnesota,Jan,1,63.33333333,0.39,0.46,Midwest,Flu
+331,Mississippi,Jan,1,46.46666667,0.44,0.42,South,Flu
+332,Missouri,Jan,1,53.13333333,0.41,0.42,Midwest,Flu
+333,Montana,Jan,1,52.66666667,0.49,0.3,West,Flu
+334,Nebraska,Jan,1,65.7,0.47,0.36,Midwest,Flu
+335,Nevada,Jan,1,48.66666667,0.37,0.46,West,Flu
+336,New Hampshire,Jan,1,64.76666667,0.35,0.44,Northeast,Flu
+337,New Jersey,Jan,1,68.5,0.3,0.51,Northeast,Flu
+338,New Mexico,Jan,1,63.53333333,0.37,0.48,West,Flu
+339,New York,Jan,1,66.1,0.28,0.53,Northeast,Flu
+340,North Carolina,Jan,1,60.03333333,0.41,0.43,South,Flu
+341,North Dakota,Jan,1,62,0.5,0.33,Midwest,Flu
+342,Ohio,Jan,1,57.1,0.42,0.4,Midwest,Flu
+343,Oklahoma,Jan,1,54.13333333,0.45,0.4,South,Flu
+344,Oregon,Jan,1,56.13333333,0.32,0.47,West,Flu
+345,Pennsylvania,Jan,1,66.46666667,0.39,0.46,Northeast,Flu
+346,Rhode Island,Jan,1,75.2,0.3,0.48,Northeast,Flu
+347,South Carolina,Jan,1,55,0.43,0.39,South,Flu
+348,South Dakota,Jan,1,62.63333333,0.53,0.37,Midwest,Flu
+349,Tennessee,Jan,1,58.16666667,0.48,0.36,South,Flu
+350,Texas,Jan,1,57.6,0.39,0.4,South,Flu
+351,Utah,Jan,1,54.03333333,0.54,0.3,West,Flu
+352,Vermont,Jan,1,58,0.29,0.57,Northeast,Flu
+353,Virginia,Jan,1,67.16666667,0.43,0.39,South,Flu
+354,Washington,Jan,1,59.46666667,0.33,0.44,West,Flu
+355,West Virginia,Jan,1,54.4,0.43,0.41,South,Flu
+356,Wisconsin,Jan,1,56.1,0.42,0.42,Midwest,Flu
+357,Wyoming,Jan,1,43.26666667,0.57,0.25,West,Flu
+358,Alabama,Feb,1,58.76666667,0.52,0.35,South,Flu
+359,Alaska,Feb,1,53.1,0.39,0.32,West,Flu
+360,Arizona,Feb,1,54.46666667,0.4,0.39,West,Flu
+361,Arkansas,Feb,1,63.13333333,0.46,0.38,South,Flu
+362,California,Feb,1,61.23333333,0.3,0.49,West,Flu
+363,Colorado,Feb,1,63.7,0.41,0.42,West,Flu
+364,Connecticut,Feb,1,72.73333333,0.32,0.5,Northeast,Flu
+365,Delaware,Feb,1,65.16666667,0.29,0.55,South,Flu
+366,District of Columbia,Feb,1,70.8,NA,NA,South,Flu
+367,Florida,Feb,1,52.9,0.37,0.44,South,Flu
+368,Georgia,Feb,1,53.73333333,0.41,0.41,South,Flu
+369,Hawaii,Feb,1,59.23333333,0.28,0.51,West,Flu
+370,Idaho,Feb,1,48.56666667,0.49,0.32,West,Flu
+371,Illinois,Feb,1,58.56666667,0.33,0.48,Midwest,Flu
+372,Indiana,Feb,1,54.2,0.42,0.37,Midwest,Flu
+373,Iowa,Feb,1,64.4,0.41,0.4,Midwest,Flu
+374,Kansas,Feb,1,62,0.46,0.31,Midwest,Flu
+375,Kentucky,Feb,1,61.6,0.44,0.43,South,Flu
+376,Louisiana,Feb,1,55.66666667,0.41,0.43,South,Flu
+377,Maine,Feb,1,62.03333333,0.36,0.47,Northeast,Flu
+378,9yland,Feb,1,70.36666667,0.31,0.55,South,Flu
+379,Massachusetts,Feb,1,77.86666667,0.27,0.56,Northeast,Flu
+380,Michigan,Feb,1,54.43333333,0.34,0.47,Midwest,Flu
+381,Minnesota,Feb,1,64.76666667,0.39,0.46,Midwest,Flu
+382,Mississippi,Feb,1,48,0.44,0.42,South,Flu
+383,Missouri,Feb,1,53.8,0.41,0.42,Midwest,Flu
+384,Montana,Feb,1,53.3,0.49,0.3,West,Flu
+385,Nebraska,Feb,1,67.53333333,0.47,0.36,Midwest,Flu
+386,Nevada,Feb,1,49.46666667,0.37,0.46,West,Flu
+387,New Hampshire,Feb,1,66.1,0.35,0.44,Northeast,Flu
+388,New Jersey,Feb,1,70.26666667,0.3,0.51,Northeast,Flu
+389,New Mexico,Feb,1,65.8,0.37,0.48,West,Flu
+390,New York,Feb,1,68.1,0.28,0.53,Northeast,Flu
+391,North Carolina,Feb,1,61.56666667,0.41,0.43,South,Flu
+392,North Dakota,Feb,1,63.43333333,0.5,0.33,Midwest,Flu
+393,Ohio,Feb,1,58.46666667,0.42,0.4,Midwest,Flu
+394,Oklahoma,Feb,1,55.36666667,0.45,0.4,South,Flu
+395,Oregon,Feb,1,59.23333333,0.32,0.47,West,Flu
+396,Pennsylvania,Feb,1,68.43333333,0.39,0.46,Northeast,Flu
+397,Rhode Island,Feb,1,77,0.3,0.48,Northeast,Flu
+398,South Carolina,Feb,1,56.86666667,0.43,0.39,South,Flu
+399,South Dakota,Feb,1,63.26666667,0.53,0.37,Midwest,Flu
+400,Tennessee,Feb,1,60.56666667,0.48,0.36,South,Flu
+401,Texas,Feb,1,60.43333333,0.39,0.4,South,Flu
+402,Utah,Feb,1,54.93333333,0.54,0.3,West,Flu
+403,Vermont,Feb,1,59.7,0.29,0.57,Northeast,Flu
+404,Virginia,Feb,1,69.16666667,0.43,0.39,South,Flu
+405,Washington,Feb,1,62.33333333,0.33,0.44,West,Flu
+406,West Virginia,Feb,1,55.66666667,0.43,0.41,South,Flu
+407,Wisconsin,Feb,1,58.16666667,0.42,0.42,Midwest,Flu
+408,Wyoming,Feb,1,44.3,0.57,0.25,West,Flu
+409,Alabama,Mar,1,59.66666667,0.52,0.35,South,Far
+410,Alaska,Mar,1,54.6,0.39,0.32,West,Far
+411,Arizona,Mar,1,55.53333333,0.4,0.39,West,Far
+412,Arkansas,Mar,1,63.56666667,0.46,0.38,South,Far
+413,California,Mar,1,63.06666667,0.3,0.49,West,Far
+414,Colorado,Mar,1,64.06666667,0.41,0.42,West,Far
+415,Connecticut,Mar,1,74.36666667,0.32,0.5,Northeast,Far
+416,Delaware,Mar,1,65.7,0.29,0.55,South,Far
+417,District of Columbia,Mar,1,72.73333333,NA,NA,South,Far
+418,Florida,Mar,1,53.9,0.37,0.44,South,Far
+419,Georgia,Mar,1,54.76666667,0.41,0.41,South,Far
+420,Hawaii,Mar,1,59.76666667,0.28,0.51,West,Far
+421,Idaho,Mar,1,49.06666667,0.49,0.32,West,Far
+422,Illinois,Mar,1,59.9,0.33,0.48,Midwest,Far
+423,Indiana,Mar,1,55.76666667,0.42,0.37,Midwest,Far
+424,Iowa,Mar,1,66,0.41,0.4,Midwest,Far
+425,Kansas,Mar,1,63.16666667,0.46,0.31,Midwest,Far
+426,Kentucky,Mar,1,62.13333333,0.44,0.43,South,Far
+427,Louisiana,Mar,1,56.9,0.41,0.43,South,Far
+428,Maine,Mar,1,63.3,0.36,0.47,Northeast,Far
+429,9yland,Mar,1,71.86666667,0.31,0.55,South,Far
+430,Massachusetts,Mar,1,79.26666667,0.27,0.56,Northeast,Far
+431,Michigan,Mar,1,56.86666667,0.34,0.47,Midwest,Far
+432,Minnesota,Mar,1,65.36666667,0.39,0.46,Midwest,Far
+433,Mississippi,Mar,1,48.3,0.44,0.42,South,Far
+434,Missouri,Mar,1,56.56666667,0.41,0.42,Midwest,Far
+435,Montana,Mar,1,55,0.49,0.3,West,Far
+436,Nebraska,Mar,1,67.56666667,0.47,0.36,Midwest,Far
+437,Nevada,Mar,1,50.6,0.37,0.46,West,Far
+438,New Hampshire,Mar,1,66.83333333,0.35,0.44,Northeast,Far
+439,New Jersey,Mar,1,71.06666667,0.3,0.51,Northeast,Far
+440,New Mexico,Mar,1,66.56666667,0.37,0.48,West,Far
+441,New York,Mar,1,69.96666667,0.28,0.53,Northeast,Far
+442,North Carolina,Mar,1,63.86666667,0.41,0.43,South,Far
+443,North Dakota,Mar,1,64,0.5,0.33,Midwest,Far
+444,Ohio,Mar,1,59.36666667,0.42,0.4,Midwest,Far
+445,Oklahoma,Mar,1,56.16666667,0.45,0.4,South,Far
+446,Oregon,Mar,1,61.6,0.32,0.47,West,Far
+447,Pennsylvania,Mar,1,69.7,0.39,0.46,Northeast,Far
+448,Rhode Island,Mar,1,77.66666667,0.3,0.48,Northeast,Far
+449,South Carolina,Mar,1,58.46666667,0.43,0.39,South,Far
+450,South Dakota,Mar,1,63.73333333,0.53,0.37,Midwest,Far
+451,Tennessee,Mar,1,61.43333333,0.48,0.36,South,Far
+452,Texas,Mar,1,61.73333333,0.39,0.4,South,Far
+453,Utah,Mar,1,55.76666667,0.54,0.3,West,Far
+454,Vermont,Mar,1,60.4,0.29,0.57,Northeast,Far
+455,Virginia,Mar,1,69.33333333,0.43,0.39,South,Far
+456,Washington,Mar,1,62.86666667,0.33,0.44,West,Far
+457,West Virginia,Mar,1,56.6,0.43,0.41,South,Far
+458,Wisconsin,Mar,1,59.43333333,0.42,0.42,Midwest,Far
+459,Wyoming,Mar,1,44.6,0.57,0.25,West,Far
+460,Alabama,Apr,1,60.3,0.52,0.35,South,Far
+461,Alaska,Apr,1,54.9,0.39,0.32,West,Far
+462,Arizona,Apr,1,56.23333333,0.4,0.39,West,Far
+463,Arkansas,Apr,1,63.56666667,0.46,0.38,South,Far
+464,California,Apr,1,63.2,0.3,0.49,West,Far
+465,Colorado,Apr,1,64.3,0.41,0.42,West,Far
+466,Connecticut,Apr,1,74.36666667,0.32,0.5,Northeast,Far
+467,Delaware,Apr,1,65.8,0.29,0.55,South,Far
+468,District of Columbia,Apr,1,73.76666667,NA,NA,South,Far
+469,Florida,Apr,1,53.9,0.37,0.44,South,Far
+470,Georgia,Apr,1,54.83333333,0.41,0.41,South,Far
+471,Hawaii,Apr,1,61.2,0.28,0.51,West,Far
+472,Idaho,Apr,1,49.06666667,0.49,0.32,West,Far
+473,Illinois,Apr,1,60.66666667,0.33,0.48,Midwest,Far
+474,Indiana,Apr,1,57.23333333,0.42,0.37,Midwest,Far
+475,Iowa,Apr,1,66,0.41,0.4,Midwest,Far
+476,Kansas,Apr,1,63.33333333,0.46,0.31,Midwest,Far
+477,Kentucky,Apr,1,62.13333333,0.44,0.43,South,Far
+478,Louisiana,Apr,1,57.33333333,0.41,0.43,South,Far
+479,Maine,Apr,1,63.4,0.36,0.47,Northeast,Far
+480,9yland,Apr,1,73.43333333,0.31,0.55,South,Far
+481,Massachusetts,Apr,1,80.86666667,0.27,0.56,Northeast,Far
+482,Michigan,Apr,1,57.63333333,0.34,0.47,Midwest,Far
+483,Minnesota,Apr,1,65.36666667,0.39,0.46,Midwest,Far
+484,Mississippi,Apr,1,48.8,0.44,0.42,South,Far
+485,Missouri,Apr,1,57.2,0.41,0.42,Midwest,Far
+486,Montana,Apr,1,55,0.49,0.3,West,Far
+487,Nebraska,Apr,1,69.46666667,0.47,0.36,Midwest,Far
+488,Nevada,Apr,1,51.26666667,0.37,0.46,West,Far
+489,New Hampshire,Apr,1,67.46666667,0.35,0.44,Northeast,Far
+490,New Jersey,Apr,1,72.46666667,0.3,0.51,Northeast,Far
+491,New Mexico,Apr,1,66.96666667,0.37,0.48,West,Far
+492,New York,Apr,1,70.2,0.28,0.53,Northeast,Far
+493,North Carolina,Apr,1,65.2,0.41,0.43,South,Far
+494,North Dakota,Apr,1,64.2,0.5,0.33,Midwest,Far
+495,Ohio,Apr,1,60.03333333,0.42,0.4,Midwest,Far
+496,Oklahoma,Apr,1,56.16666667,0.45,0.4,South,Far
+497,Oregon,Apr,1,62.16666667,0.32,0.47,West,Far
+498,Pennsylvania,Apr,1,70.2,0.39,0.46,Northeast,Far
+499,Rhode Island,Apr,1,78,0.3,0.48,Northeast,Far
+500,South Carolina,Apr,1,59.76666667,0.43,0.39,South,Far
+501,South Dakota,Apr,1,66.33333333,0.53,0.37,Midwest,Far
+502,Tennessee,Apr,1,62.3,0.48,0.36,South,Far
+503,Texas,Apr,1,62.53333333,0.39,0.4,South,Far
+504,Utah,Apr,1,57.4,0.54,0.3,West,Far
+505,Vermont,Apr,1,60.56666667,0.29,0.57,Northeast,Far
+506,Virginia,Apr,1,69.66666667,0.43,0.39,South,Far
+507,Washington,Apr,1,63.3,0.33,0.44,West,Far
+508,West Virginia,Apr,1,56.6,0.43,0.41,South,Far
+509,Wisconsin,Apr,1,60.5,0.42,0.42,Midwest,Far
+510,Wyoming,Apr,1,44.6,0.57,0.25,West,Far
+511,Alabama,May,1,60.3,0.52,0.35,South,Far
+512,Alaska,May,1,54.9,0.39,0.32,West,Far
+513,Arizona,May,1,56.23333333,0.4,0.39,West,Far
+514,Arkansas,May,1,63.56666667,0.46,0.38,South,Far
+515,California,May,1,64.53333333,0.3,0.49,West,Far
+516,Colorado,May,1,64.3,0.41,0.42,West,Far
+517,Connecticut,May,1,75.5,0.32,0.5,Northeast,Far
+518,Delaware,May,1,65.8,0.29,0.55,South,Far
+519,District of Columbia,May,1,74.66666667,NA,NA,South,Far
+520,Florida,May,1,54.33333333,0.37,0.44,South,Far
+521,Georgia,May,1,55.6,0.41,0.41,South,Far
+522,Hawaii,May,1,61.6,0.28,0.51,West,Far
+523,Idaho,May,1,52.2,0.49,0.32,West,Far
+524,Illinois,May,1,60.76666667,0.33,0.48,Midwest,Far
+525,Indiana,May,1,57.23333333,0.42,0.37,Midwest,Far
+526,Iowa,May,1,66.1,0.41,0.4,Midwest,Far
+527,Kansas,May,1,63.33333333,0.46,0.31,Midwest,Far
+528,Kentucky,May,1,65.06666667,0.44,0.43,South,Far
+529,Louisiana,May,1,57.33333333,0.41,0.43,South,Far
+530,Maine,May,1,63.4,0.36,0.47,Northeast,Far
+531,9yland,May,1,73.43333333,0.31,0.55,South,Far
+532,Massachusetts,May,1,81.6,0.27,0.56,Northeast,Far
+533,Michigan,May,1,57.63333333,0.34,0.47,Midwest,Far
+534,Minnesota,May,1,65.36666667,0.39,0.46,Midwest,Far
+535,Mississippi,May,1,48.83333333,0.44,0.42,South,Far
+536,Missouri,May,1,57.26666667,0.41,0.42,Midwest,Far
+537,Montana,May,1,55,0.49,0.3,West,Far
+538,Nebraska,May,1,69.46666667,0.47,0.36,Midwest,Far
+539,Nevada,May,1,51.63333333,0.37,0.46,West,Far
+540,New Hampshire,May,1,67.46666667,0.35,0.44,Northeast,Far
+541,New Jersey,May,1,72.76666667,0.3,0.51,Northeast,Far
+542,New Mexico,May,1,67.03333333,0.37,0.48,West,Far
+543,New York,May,1,70.33333333,0.28,0.53,Northeast,Far
+544,North Carolina,May,1,65.5,0.41,0.43,South,Far
+545,North Dakota,May,1,64.2,0.5,0.33,Midwest,Far
+546,Ohio,May,1,60.03333333,0.42,0.4,Midwest,Far
+547,Oklahoma,May,1,56.36666667,0.45,0.4,South,Far
+548,Oregon,May,1,62.16666667,0.32,0.47,West,Far
+549,Pennsylvania,May,1,70.63333333,0.39,0.46,Northeast,Far
+550,Rhode Island,May,1,78.66666667,0.3,0.48,Northeast,Far
+551,South Carolina,May,1,59.76666667,0.43,0.39,South,Far
+552,South Dakota,May,1,67.4,0.53,0.37,Midwest,Far
+553,Tennessee,May,1,62.5,0.48,0.36,South,Far
+554,Texas,May,1,62.8,0.39,0.4,South,Far
+555,Utah,May,1,57.4,0.54,0.3,West,Far
+556,Vermont,May,1,60.56666667,0.29,0.57,Northeast,Far
+557,Virginia,May,1,69.66666667,0.43,0.39,South,Far
+558,Washington,May,1,63.5,0.33,0.44,West,Far
+559,West Virginia,May,1,56.6,0.43,0.41,South,Far
+560,Wisconsin,May,1,60.5,0.42,0.42,Midwest,Far
+561,Wyoming,May,1,44.73333333,0.57,0.25,West,Far
+562,Alabama,Jul,2,0,0.52,0.35,South,Far
+563,Alaska,Jul,2,0,0.39,0.32,West,Far
+564,Arizona,Jul,2,0,0.4,0.39,West,Far
+565,Arkansas,Jul,2,0,0.46,0.38,South,Far
+566,California,Jul,2,0,0.3,0.49,West,Far
+567,Colorado,Jul,2,0,0.41,0.42,West,Far
+568,Connecticut,Jul,2,0,0.32,0.5,Northeast,Far
+569,Delaware,Jul,2,0,0.29,0.55,South,Far
+570,District of Columbia,Jul,2,NA,NA,NA,South,Far
+571,Florida,Jul,2,0,0.37,0.44,South,Far
+572,Georgia,Jul,2,0,0.41,0.41,South,Far
+573,Hawaii,Jul,2,0,0.28,0.51,West,Far
+574,Idaho,Jul,2,0,0.49,0.32,West,Far
+575,Illinois,Jul,2,0,0.33,0.48,Midwest,Far
+576,Indiana,Jul,2,0,0.42,0.37,Midwest,Far
+577,Iowa,Jul,2,0,0.41,0.4,Midwest,Far
+578,Kansas,Jul,2,0,0.46,0.31,Midwest,Far
+579,Kentucky,Jul,2,0,0.44,0.43,South,Far
+580,Louisiana,Jul,2,0,0.41,0.43,South,Far
+581,Maine,Jul,2,0,0.36,0.47,Northeast,Far
+582,9yland,Jul,2,0,0.31,0.55,South,Far
+583,Massachusetts,Jul,2,0,0.27,0.56,Northeast,Far
+584,Michigan,Jul,2,0,0.34,0.47,Midwest,Far
+585,Minnesota,Jul,2,0,0.39,0.46,Midwest,Far
+586,Mississippi,Jul,2,0,0.44,0.42,South,Far
+587,Missouri,Jul,2,0,0.41,0.42,Midwest,Far
+588,Montana,Jul,2,0,0.49,0.3,West,Far
+589,Nebraska,Jul,2,0,0.47,0.36,Midwest,Far
+590,Nevada,Jul,2,0,0.37,0.46,West,Far
+591,New Hampshire,Jul,2,0,0.35,0.44,Northeast,Far
+592,New Jersey,Jul,2,NA,0.3,0.51,Northeast,Far
+593,New Mexico,Jul,2,0,0.37,0.48,West,Far
+594,New York,Jul,2,0,0.28,0.53,Northeast,Far
+595,North Carolina,Jul,2,0,0.41,0.43,South,Far
+596,North Dakota,Jul,2,0,0.5,0.33,Midwest,Far
+597,Ohio,Jul,2,0,0.42,0.4,Midwest,Far
+598,Oklahoma,Jul,2,0,0.45,0.4,South,Far
+599,Oregon,Jul,2,0.7,0.32,0.47,West,Far
+600,Pennsylvania,Jul,2,0,0.39,0.46,Northeast,Far
+601,Rhode Island,Jul,2,0,0.3,0.48,Northeast,Far
+602,South Carolina,Jul,2,0,0.43,0.39,South,Far
+603,South Dakota,Jul,2,0,0.53,0.37,Midwest,Far
+604,Tennessee,Jul,2,0,0.48,0.36,South,Far
+605,Texas,Jul,2,0,0.39,0.4,South,Far
+606,Utah,Jul,2,0,0.54,0.3,West,Far
+607,Vermont,Jul,2,0,0.29,0.57,Northeast,Far
+608,Virginia,Jul,2,0,0.43,0.39,South,Far
+609,Washington,Jul,2,0,0.33,0.44,West,Far
+610,West Virginia,Jul,2,0,0.43,0.41,South,Far
+611,Wisconsin,Jul,2,0,0.42,0.42,Midwest,Far
+612,Wyoming,Jul,2,0,0.57,0.25,West,Far
+613,Alabama,Aug,2,0,0.52,0.35,South,Far
+614,Alaska,Aug,2,0,0.39,0.32,West,Far
+615,Arizona,Aug,2,0,0.4,0.39,West,Far
+616,Arkansas,Aug,2,0,0.46,0.38,South,Far
+617,California,Aug,2,1.7,0.3,0.49,West,Far
+618,Colorado,Aug,2,1.3,0.41,0.42,West,Far
+619,Connecticut,Aug,2,0,0.32,0.5,Northeast,Far
+620,Delaware,Aug,2,0,0.29,0.55,South,Far
+621,District of Columbia,Aug,2,NA,NA,NA,South,Far
+622,Florida,Aug,2,1.7,0.37,0.44,South,Far
+623,Georgia,Aug,2,0,0.41,0.41,South,Far
+624,Hawaii,Aug,2,2.2,0.28,0.51,West,Far
+625,Idaho,Aug,2,0,0.49,0.32,West,Far
+626,Illinois,Aug,2,2,0.33,0.48,Midwest,Far
+627,Indiana,Aug,2,1.3,0.42,0.37,Midwest,Far
+628,Iowa,Aug,2,1.2,0.41,0.4,Midwest,Far
+629,Kansas,Aug,2,1.1,0.46,0.31,Midwest,Far
+630,Kentucky,Aug,2,0,0.44,0.43,South,Far
+631,Louisiana,Aug,2,1.2,0.41,0.43,South,Far
+632,Maine,Aug,2,0,0.36,0.47,Northeast,Far
+633,9yland,Aug,2,1.5,0.31,0.55,South,Far
+634,Massachusetts,Aug,2,1.9,0.27,0.56,Northeast,Far
+635,Michigan,Aug,2,1,0.34,0.47,Midwest,Far
+636,Minnesota,Aug,2,1.1,0.39,0.46,Midwest,Far
+637,Mississippi,Aug,2,0,0.44,0.42,South,Far
+638,Missouri,Aug,2,1.2,0.41,0.42,Midwest,Far
+639,Montana,Aug,2,0,0.49,0.3,West,Far
+640,Nebraska,Aug,2,0.9,0.47,0.36,Midwest,Far
+641,Nevada,Aug,2,0,0.37,0.46,West,Far
+642,New Hampshire,Aug,2,0,0.35,0.44,Northeast,Far
+643,New Jersey,Aug,2,NA,0.3,0.51,Northeast,Far
+644,New Mexico,Aug,2,1.2,0.37,0.48,West,Far
+645,New York,Aug,2,1.2,0.28,0.53,Northeast,Far
+646,North Carolina,Aug,2,1.7,0.41,0.43,South,Far
+647,North Dakota,Aug,2,0,0.5,0.33,Midwest,Far
+648,Ohio,Aug,2,1.4,0.42,0.4,Midwest,Far
+649,Oklahoma,Aug,2,0,0.45,0.4,South,Far
+650,Oregon,Aug,2,1.1,0.32,0.47,West,Far
+651,Pennsylvania,Aug,2,1.2,0.39,0.46,Northeast,Far
+652,Rhode Island,Aug,2,0,0.3,0.48,Northeast,Far
+653,South Carolina,Aug,2,1.5,0.43,0.39,South,Far
+654,South Dakota,Aug,2,0,0.53,0.37,Midwest,Far
+655,Tennessee,Aug,2,0.7,0.48,0.36,South,Far
+656,Texas,Aug,2,1.2,0.39,0.4,South,Far
+657,Utah,Aug,2,0.9,0.54,0.3,West,Far
+658,Vermont,Aug,2,0,0.29,0.57,Northeast,Far
+659,Virginia,Aug,2,1,0.43,0.39,South,Far
+660,Washington,Aug,2,1.7,0.33,0.44,West,Far
+661,West Virginia,Aug,2,0,0.43,0.41,South,Far
+662,Wisconsin,Aug,2,0,0.42,0.42,Midwest,Far
+663,Wyoming,Aug,2,0,0.57,0.25,West,Far
+664,Alabama,Sep,2,5.9,0.52,0.35,South,Near
+665,Alaska,Sep,2,6.6,0.39,0.32,West,Near
+666,Arizona,Sep,2,5.4,0.4,0.39,West,Near
+667,Arkansas,Sep,2,4.3,0.46,0.38,South,Near
+668,California,Sep,2,6.1,0.3,0.49,West,Near
+669,Colorado,Sep,2,5.8,0.41,0.42,West,Near
+670,Connecticut,Sep,2,3.7,0.32,0.5,Northeast,Near
+671,Delaware,Sep,2,5.8,0.29,0.55,South,Near
+672,District of Columbia,Sep,2,NA,NA,NA,South,Near
+673,Florida,Sep,2,5.3,0.37,0.44,South,Near
+674,Georgia,Sep,2,5.1,0.41,0.41,South,Near
+675,Hawaii,Sep,2,7.5,0.28,0.51,West,Near
+676,Idaho,Sep,2,5,0.49,0.32,West,Near
+677,Illinois,Sep,2,6.2,0.33,0.48,Midwest,Near
+678,Indiana,Sep,2,5.1,0.42,0.37,Midwest,Near
+679,Iowa,Sep,2,6.9,0.41,0.4,Midwest,Near
+680,Kansas,Sep,2,5.5,0.46,0.31,Midwest,Near
+681,Kentucky,Sep,2,6.7,0.44,0.43,South,Near
+682,Louisiana,Sep,2,4,0.41,0.43,South,Near
+683,Maine,Sep,2,4.5,0.36,0.47,Northeast,Near
+684,9yland,Sep,2,7.4,0.31,0.55,South,Near
+685,Massachusetts,Sep,2,7,0.27,0.56,Northeast,Near
+686,Michigan,Sep,2,4.9,0.34,0.47,Midwest,Near
+687,Minnesota,Sep,2,7,0.39,0.46,Midwest,Near
+688,Mississippi,Sep,2,3.6,0.44,0.42,South,Near
+689,Missouri,Sep,2,5.3,0.41,0.42,Midwest,Near
+690,Montana,Sep,2,4.5,0.49,0.3,West,Near
+691,Nebraska,Sep,2,5.5,0.47,0.36,Midwest,Near
+692,Nevada,Sep,2,4.3,0.37,0.46,West,Near
+693,New Hampshire,Sep,2,4.7,0.35,0.44,Northeast,Near
+694,New Jersey,Sep,2,NA,0.3,0.51,Northeast,Near
+695,New Mexico,Sep,2,4.9,0.37,0.48,West,Near
+696,New York,Sep,2,5.4,0.28,0.53,Northeast,Near
+697,North Carolina,Sep,2,6,0.41,0.43,South,Near
+698,North Dakota,Sep,2,3.9,0.5,0.33,Midwest,Near
+699,Ohio,Sep,2,5.7,0.42,0.4,Midwest,Near
+700,Oklahoma,Sep,2,4.7,0.45,0.4,South,Near
+701,Oregon,Sep,2,5,0.32,0.47,West,Near
+702,Pennsylvania,Sep,2,6.1,0.39,0.46,Northeast,Near
+703,Rhode Island,Sep,2,5.7,0.3,0.48,Northeast,Near
+704,South Carolina,Sep,2,4.6,0.43,0.39,South,Near
+705,South Dakota,Sep,2,4.5,0.53,0.37,Midwest,Near
+706,Tennessee,Sep,2,4.7,0.48,0.36,South,Near
+707,Texas,Sep,2,5.6,0.39,0.4,South,Near
+708,Utah,Sep,2,6.1,0.54,0.3,West,Near
+709,Vermont,Sep,2,3.8,0.29,0.57,Northeast,Near
+710,Virginia,Sep,2,6.3,0.43,0.39,South,Near
+711,Washington,Sep,2,7.3,0.33,0.44,West,Near
+712,West Virginia,Sep,2,4.1,0.43,0.41,South,Near
+713,Wisconsin,Sep,2,5.7,0.42,0.42,Midwest,Near
+714,Wyoming,Sep,2,2.7,0.57,0.25,West,Near
+715,Alabama,Oct,2,17.2,0.52,0.35,South,Near
+716,Alaska,Oct,2,17.6,0.39,0.32,West,Near
+717,Arizona,Oct,2,16.2,0.4,0.39,West,Near
+718,Arkansas,Oct,2,19.1,0.46,0.38,South,Near
+719,California,Oct,2,15.2,0.3,0.49,West,Near
+720,Colorado,Oct,2,20,0.41,0.42,West,Near
+721,Connecticut,Oct,2,20.1,0.32,0.5,Northeast,Near
+722,Delaware,Oct,2,16.5,0.29,0.55,South,Near
+723,District of Columbia,Oct,2,NA,NA,NA,South,Near
+724,Florida,Oct,2,12.5,0.37,0.44,South,Near
+725,Georgia,Oct,2,15.6,0.41,0.41,South,Near
+726,Hawaii,Oct,2,15.8,0.28,0.51,West,Near
+727,Idaho,Oct,2,18,0.49,0.32,West,Near
+728,Illinois,Oct,2,15.6,0.33,0.48,Midwest,Near
+729,Indiana,Oct,2,15,0.42,0.37,Midwest,Near
+730,Iowa,Oct,2,23.5,0.41,0.4,Midwest,Near
+731,Kansas,Oct,2,22.3,0.46,0.31,Midwest,Near
+732,Kentucky,Oct,2,18.7,0.44,0.43,South,Near
+733,Louisiana,Oct,2,12.7,0.41,0.43,South,Near
+734,Maine,Oct,2,16.2,0.36,0.47,Northeast,Near
+735,9yland,Oct,2,22.4,0.31,0.55,South,Near
+736,Massachusetts,Oct,2,22.1,0.27,0.56,Northeast,Near
+737,Michigan,Oct,2,17,0.34,0.47,Midwest,Near
+738,Minnesota,Oct,2,22.9,0.39,0.46,Midwest,Near
+739,Mississippi,Oct,2,14.9,0.44,0.42,South,Near
+740,Missouri,Oct,2,20.2,0.41,0.42,Midwest,Near
+741,Montana,Oct,2,19,0.49,0.3,West,Near
+742,Nebraska,Oct,2,22.7,0.47,0.36,Midwest,Near
+743,Nevada,Oct,2,13.3,0.37,0.46,West,Near
+744,New Hampshire,Oct,2,17.6,0.35,0.44,Northeast,Near
+745,New Jersey,Oct,2,NA,0.3,0.51,Northeast,Near
+746,New Mexico,Oct,2,16.5,0.37,0.48,West,Near
+747,New York,Oct,2,16.3,0.28,0.53,Northeast,Near
+748,North Carolina,Oct,2,23.3,0.41,0.43,South,Near
+749,North Dakota,Oct,2,22.1,0.5,0.33,Midwest,Near
+750,Ohio,Oct,2,19.3,0.42,0.4,Midwest,Near
+751,Oklahoma,Oct,2,20.5,0.45,0.4,South,Near
+752,Oregon,Oct,2,16.4,0.32,0.47,West,Near
+753,Pennsylvania,Oct,2,21,0.39,0.46,Northeast,Near
+754,Rhode Island,Oct,2,21,0.3,0.48,Northeast,Near
+755,South Carolina,Oct,2,14.6,0.43,0.39,South,Near
+756,South Dakota,Oct,2,21.9,0.53,0.37,Midwest,Near
+757,Tennessee,Oct,2,17.9,0.48,0.36,South,Near
+758,Texas,Oct,2,16,0.39,0.4,South,Near
+759,Utah,Oct,2,19.4,0.54,0.3,West,Near
+760,Vermont,Oct,2,18.3,0.29,0.57,Northeast,Near
+761,Virginia,Oct,2,22.3,0.43,0.39,South,Near
+762,Washington,Oct,2,21.5,0.33,0.44,West,Near
+763,West Virginia,Oct,2,17.7,0.43,0.41,South,Near
+764,Wisconsin,Oct,2,18.3,0.42,0.42,Midwest,Near
+765,Wyoming,Oct,2,14.4,0.57,0.25,West,Near
+766,Alabama,Nov,2,22,0.52,0.35,South,Near
+767,Alaska,Nov,2,24.1,0.39,0.32,West,Near
+768,Arizona,Nov,2,21.9,0.4,0.39,West,Near
+769,Arkansas,Nov,2,26.7,0.46,0.38,South,Near
+770,California,Nov,2,21.9,0.3,0.49,West,Near
+771,Colorado,Nov,2,27.5,0.41,0.42,West,Near
+772,Connecticut,Nov,2,29.1,0.32,0.5,Northeast,Near
+773,Delaware,Nov,2,21.6,0.29,0.55,South,Near
+774,District of Columbia,Nov,2,NA,NA,NA,South,Near
+775,Florida,Nov,2,17.9,0.37,0.44,South,Near
+776,Georgia,Nov,2,21.1,0.41,0.41,South,Near
+777,Hawaii,Nov,2,22.5,0.28,0.51,West,Near
+778,Idaho,Nov,2,24.6,0.49,0.32,West,Near
+779,Illinois,Nov,2,22.4,0.33,0.48,Midwest,Near
+780,Indiana,Nov,2,22.8,0.42,0.37,Midwest,Near
+781,Iowa,Nov,2,32.2,0.41,0.4,Midwest,Near
+782,Kansas,Nov,2,30.9,0.46,0.31,Midwest,Near
+783,Kentucky,Nov,2,25.4,0.44,0.43,South,Near
+784,Louisiana,Nov,2,17,0.41,0.43,South,Near
+785,Maine,Nov,2,25.1,0.36,0.47,Northeast,Near
+786,9yland,Nov,2,30.3,0.31,0.55,South,Near
+787,Massachusetts,Nov,2,30.7,0.27,0.56,Northeast,Near
+788,Michigan,Nov,2,21.9,0.34,0.47,Midwest,Near
+789,Minnesota,Nov,2,31.7,0.39,0.46,Midwest,Near
+790,Mississippi,Nov,2,20.4,0.44,0.42,South,Near
+791,Missouri,Nov,2,27.3,0.41,0.42,Midwest,Near
+792,Montana,Nov,2,26.1,0.49,0.3,West,Near
+793,Nebraska,Nov,2,31.2,0.47,0.36,Midwest,Near
+794,Nevada,Nov,2,15.8,0.37,0.46,West,Near
+795,New Hampshire,Nov,2,26.6,0.35,0.44,Northeast,Near
+796,New Jersey,Nov,2,NA,0.3,0.51,Northeast,Near
+797,New Mexico,Nov,2,23.1,0.37,0.48,West,Near
+798,New York,Nov,2,25.3,0.28,0.53,Northeast,Near
+799,North Carolina,Nov,2,30.6,0.41,0.43,South,Near
+800,North Dakota,Nov,2,31.6,0.5,0.33,Midwest,Near
+801,Ohio,Nov,2,26.9,0.42,0.4,Midwest,Near
+802,Oklahoma,Nov,2,29.2,0.45,0.4,South,Near
+803,Oregon,Nov,2,23.7,0.32,0.47,West,Near
+804,Pennsylvania,Nov,2,28.9,0.39,0.46,Northeast,Near
+805,Rhode Island,Nov,2,33.9,0.3,0.48,Northeast,Near
+806,South Carolina,Nov,2,21.6,0.43,0.39,South,Near
+807,South Dakota,Nov,2,32.6,0.53,0.37,Midwest,Near
+808,Tennessee,Nov,2,23.8,0.48,0.36,South,Near
+809,Texas,Nov,2,22.5,0.39,0.4,South,Near
+810,Utah,Nov,2,27,0.54,0.3,West,Near
+811,Vermont,Nov,2,29.3,0.29,0.57,Northeast,Near
+812,Virginia,Nov,2,30.6,0.43,0.39,South,Near
+813,Washington,Nov,2,30.6,0.33,0.44,West,Near
+814,West Virginia,Nov,2,26.9,0.43,0.41,South,Near
+815,Wisconsin,Nov,2,28.2,0.42,0.42,Midwest,Near
+816,Wyoming,Nov,2,21.4,0.57,0.25,West,Near
+817,Alabama,Dec,2,24.6,0.52,0.35,South,Flu
+818,Alaska,Dec,2,25.8,0.39,0.32,West,Flu
+819,Arizona,Dec,2,24.9,0.4,0.39,West,Flu
+820,Arkansas,Dec,2,28.1,0.46,0.38,South,Flu
+821,California,Dec,2,25.6,0.3,0.49,West,Flu
+822,Colorado,Dec,2,30.9,0.41,0.42,West,Flu
+823,Connecticut,Dec,2,32.6,0.32,0.5,Northeast,Flu
+824,Delaware,Dec,2,26.1,0.29,0.55,South,Flu
+825,District of Columbia,Dec,2,NA,NA,NA,South,Flu
+826,Florida,Dec,2,19.9,0.37,0.44,South,Flu
+827,Georgia,Dec,2,24.6,0.41,0.41,South,Flu
+828,Hawaii,Dec,2,26.3,0.28,0.51,West,Flu
+829,Idaho,Dec,2,27.3,0.49,0.32,West,Flu
+830,Illinois,Dec,2,25.4,0.33,0.48,Midwest,Flu
+831,Indiana,Dec,2,27.1,0.42,0.37,Midwest,Flu
+832,Iowa,Dec,2,35.8,0.41,0.4,Midwest,Flu
+833,Kansas,Dec,2,33.7,0.46,0.31,Midwest,Flu
+834,Kentucky,Dec,2,29.6,0.44,0.43,South,Flu
+835,Louisiana,Dec,2,18.6,0.41,0.43,South,Flu
+836,Maine,Dec,2,27.9,0.36,0.47,Northeast,Flu
+837,9yland,Dec,2,33.3,0.31,0.55,South,Flu
+838,Massachusetts,Dec,2,35.8,0.27,0.56,Northeast,Flu
+839,Michigan,Dec,2,24.9,0.34,0.47,Midwest,Flu
+840,Minnesota,Dec,2,34.9,0.39,0.46,Midwest,Flu
+841,Mississippi,Dec,2,22.1,0.44,0.42,South,Flu
+842,Missouri,Dec,2,30.7,0.41,0.42,Midwest,Flu
+843,Montana,Dec,2,28.3,0.49,0.3,West,Flu
+844,Nebraska,Dec,2,34.9,0.47,0.36,Midwest,Flu
+845,Nevada,Dec,2,18.1,0.37,0.46,West,Flu
+846,New Hampshire,Dec,2,29.7,0.35,0.44,Northeast,Flu
+847,New Jersey,Dec,2,NA,0.3,0.51,Northeast,Flu
+848,New Mexico,Dec,2,26,0.37,0.48,West,Flu
+849,New York,Dec,2,29.9,0.28,0.53,Northeast,Flu
+850,North Carolina,Dec,2,33.3,0.41,0.43,South,Flu
+851,North Dakota,Dec,2,34,0.5,0.33,Midwest,Flu
+852,Ohio,Dec,2,30.6,0.42,0.4,Midwest,Flu
+853,Oklahoma,Dec,2,32,0.45,0.4,South,Flu
+854,Oregon,Dec,2,26.5,0.32,0.47,West,Flu
+855,Pennsylvania,Dec,2,30.7,0.39,0.46,Northeast,Flu
+856,Rhode Island,Dec,2,37.3,0.3,0.48,Northeast,Flu
+857,South Carolina,Dec,2,24.4,0.43,0.39,South,Flu
+858,South Dakota,Dec,2,36.1,0.53,0.37,Midwest,Flu
+859,Tennessee,Dec,2,26.6,0.48,0.36,South,Flu
+860,Texas,Dec,2,26.2,0.39,0.4,South,Flu
+861,Utah,Dec,2,29.5,0.54,0.3,West,Flu
+862,Vermont,Dec,2,33.5,0.29,0.57,Northeast,Flu
+863,Virginia,Dec,2,34,0.43,0.39,South,Flu
+864,Washington,Dec,2,34.4,0.33,0.44,West,Flu
+865,West Virginia,Dec,2,28.2,0.43,0.41,South,Flu
+866,Wisconsin,Dec,2,32.3,0.42,0.42,Midwest,Flu
+867,Wyoming,Dec,2,24.7,0.57,0.25,West,Flu
+868,Alabama,Jan,2,28.2,0.52,0.35,South,Flu
+869,Alaska,Jan,2,29.1,0.39,0.32,West,Flu
+870,Arizona,Jan,2,26.8,0.4,0.39,West,Flu
+871,Arkansas,Jan,2,31.7,0.46,0.38,South,Flu
+872,California,Jan,2,28.7,0.3,0.49,West,Flu
+873,Colorado,Jan,2,33.1,0.41,0.42,West,Flu
+874,Connecticut,Jan,2,35,0.32,0.5,Northeast,Flu
+875,Delaware,Jan,2,28.7,0.29,0.55,South,Flu
+876,District of Columbia,Jan,2,NA,NA,NA,South,Flu
+877,Florida,Jan,2,22.3,0.37,0.44,South,Flu
+878,Georgia,Jan,2,27,0.41,0.41,South,Flu
+879,Hawaii,Jan,2,30,0.28,0.51,West,Flu
+880,Idaho,Jan,2,28.9,0.49,0.32,West,Flu
+881,Illinois,Jan,2,28.2,0.33,0.48,Midwest,Flu
+882,Indiana,Jan,2,30.1,0.42,0.37,Midwest,Flu
+883,Iowa,Jan,2,38.9,0.41,0.4,Midwest,Flu
+884,Kansas,Jan,2,36,0.46,0.31,Midwest,Flu
+885,Kentucky,Jan,2,31.9,0.44,0.43,South,Flu
+886,Louisiana,Jan,2,21.7,0.41,0.43,South,Flu
+887,Maine,Jan,2,31,0.36,0.47,Northeast,Flu
+888,9yland,Jan,2,37.3,0.31,0.55,South,Flu
+889,Massachusetts,Jan,2,39.1,0.27,0.56,Northeast,Flu
+890,Michigan,Jan,2,27.5,0.34,0.47,Midwest,Flu
+891,Minnesota,Jan,2,38.2,0.39,0.46,Midwest,Flu
+892,Mississippi,Jan,2,24,0.44,0.42,South,Flu
+893,Missouri,Jan,2,34,0.41,0.42,Midwest,Flu
+894,Montana,Jan,2,30.5,0.49,0.3,West,Flu
+895,Nebraska,Jan,2,37.7,0.47,0.36,Midwest,Flu
+896,Nevada,Jan,2,19.4,0.37,0.46,West,Flu
+897,New Hampshire,Jan,2,33.3,0.35,0.44,Northeast,Flu
+898,New Jersey,Jan,2,NA,0.3,0.51,Northeast,Flu
+899,New Mexico,Jan,2,28.1,0.37,0.48,West,Flu
+900,New York,Jan,2,33.9,0.28,0.53,Northeast,Flu
+901,North Carolina,Jan,2,36.9,0.41,0.43,South,Flu
+902,North Dakota,Jan,2,37.4,0.5,0.33,Midwest,Flu
+903,Ohio,Jan,2,33,0.42,0.4,Midwest,Flu
+904,Oklahoma,Jan,2,34.6,0.45,0.4,South,Flu
+905,Oregon,Jan,2,29,0.32,0.47,West,Flu
+906,Pennsylvania,Jan,2,33.4,0.39,0.46,Northeast,Flu
+907,Rhode Island,Jan,2,42.4,0.3,0.48,Northeast,Flu
+908,South Carolina,Jan,2,26.5,0.43,0.39,South,Flu
+909,South Dakota,Jan,2,37.9,0.53,0.37,Midwest,Flu
+910,Tennessee,Jan,2,29.1,0.48,0.36,South,Flu
+911,Texas,Jan,2,29.8,0.39,0.4,South,Flu
+912,Utah,Jan,2,31.6,0.54,0.3,West,Flu
+913,Vermont,Jan,2,36.2,0.29,0.57,Northeast,Flu
+914,Virginia,Jan,2,37.8,0.43,0.39,South,Flu
+915,Washington,Jan,2,38.1,0.33,0.44,West,Flu
+916,West Virginia,Jan,2,29.3,0.43,0.41,South,Flu
+917,Wisconsin,Jan,2,36.2,0.42,0.42,Midwest,Flu
+918,Wyoming,Jan,2,27.4,0.57,0.25,West,Flu
+919,Alabama,Feb,2,29.8,0.52,0.35,South,Flu
+920,Alaska,Feb,2,32.3,0.39,0.32,West,Flu
+921,Arizona,Feb,2,29,0.4,0.39,West,Flu
+922,Arkansas,Feb,2,33.7,0.46,0.38,South,Flu
+923,California,Feb,2,30.6,0.3,0.49,West,Flu
+924,Colorado,Feb,2,35,0.41,0.42,West,Flu
+925,Connecticut,Feb,2,37.4,0.32,0.5,Northeast,Flu
+926,Delaware,Feb,2,30.3,0.29,0.55,South,Flu
+927,District of Columbia,Feb,2,NA,NA,NA,South,Flu
+928,Florida,Feb,2,23.9,0.37,0.44,South,Flu
+929,Georgia,Feb,2,28.7,0.41,0.41,South,Flu
+930,Hawaii,Feb,2,32.9,0.28,0.51,West,Flu
+931,Idaho,Feb,2,30.4,0.49,0.32,West,Flu
+932,Illinois,Feb,2,30.4,0.33,0.48,Midwest,Flu
+933,Indiana,Feb,2,32.2,0.42,0.37,Midwest,Flu
+934,Iowa,Feb,2,40,0.41,0.4,Midwest,Flu
+935,Kansas,Feb,2,37,0.46,0.31,Midwest,Flu
+936,Kentucky,Feb,2,34.1,0.44,0.43,South,Flu
+937,Louisiana,Feb,2,23.1,0.41,0.43,South,Flu
+938,Maine,Feb,2,31.4,0.36,0.47,Northeast,Flu
+939,9yland,Feb,2,40,0.31,0.55,South,Flu
+940,Massachusetts,Feb,2,41.9,0.27,0.56,Northeast,Flu
+941,Michigan,Feb,2,28.8,0.34,0.47,Midwest,Flu
+942,Minnesota,Feb,2,40,0.39,0.46,Midwest,Flu
+943,Mississippi,Feb,2,24.9,0.44,0.42,South,Flu
+944,Missouri,Feb,2,36.1,0.41,0.42,Midwest,Flu
+945,Montana,Feb,2,32.3,0.49,0.3,West,Flu
+946,Nebraska,Feb,2,39,0.47,0.36,Midwest,Flu
+947,Nevada,Feb,2,20,0.37,0.46,West,Flu
+948,New Hampshire,Feb,2,35.5,0.35,0.44,Northeast,Flu
+949,New Jersey,Feb,2,NA,0.3,0.51,Northeast,Flu
+950,New Mexico,Feb,2,31.1,0.37,0.48,West,Flu
+951,New York,Feb,2,36.6,0.28,0.53,Northeast,Flu
+952,North Carolina,Feb,2,39.6,0.41,0.43,South,Flu
+953,North Dakota,Feb,2,37.9,0.5,0.33,Midwest,Flu
+954,Ohio,Feb,2,34.7,0.42,0.4,Midwest,Flu
+955,Oklahoma,Feb,2,35.7,0.45,0.4,South,Flu
+956,Oregon,Feb,2,31.1,0.32,0.47,West,Flu
+957,Pennsylvania,Feb,2,35.1,0.39,0.46,Northeast,Flu
+958,Rhode Island,Feb,2,44.1,0.3,0.48,Northeast,Flu
+959,South Carolina,Feb,2,27.9,0.43,0.39,South,Flu
+960,South Dakota,Feb,2,40.2,0.53,0.37,Midwest,Flu
+961,Tennessee,Feb,2,30.8,0.48,0.36,South,Flu
+962,Texas,Feb,2,31.3,0.39,0.4,South,Flu
+963,Utah,Feb,2,32.8,0.54,0.3,West,Flu
+964,Vermont,Feb,2,37.5,0.29,0.57,Northeast,Flu
+965,Virginia,Feb,2,40.5,0.43,0.39,South,Flu
+966,Washington,Feb,2,40,0.33,0.44,West,Flu
+967,West Virginia,Feb,2,30.7,0.43,0.41,South,Flu
+968,Wisconsin,Feb,2,38.5,0.42,0.42,Midwest,Flu
+969,Wyoming,Feb,2,27.4,0.57,0.25,West,Flu
+970,Alabama,Mar,2,30.4,0.52,0.35,South,Far
+971,Alaska,Mar,2,32.5,0.39,0.32,West,Far
+972,Arizona,Mar,2,30.8,0.4,0.39,West,Far
+973,Arkansas,Mar,2,34.4,0.46,0.38,South,Far
+974,California,Mar,2,31.6,0.3,0.49,West,Far
+975,Colorado,Mar,2,36.3,0.41,0.42,West,Far
+976,Connecticut,Mar,2,38.1,0.32,0.5,Northeast,Far
+977,Delaware,Mar,2,30.7,0.29,0.55,South,Far
+978,District of Columbia,Mar,2,NA,NA,NA,South,Far
+979,Florida,Mar,2,24.9,0.37,0.44,South,Far
+980,Georgia,Mar,2,29.4,0.41,0.41,South,Far
+981,Hawaii,Mar,2,35.3,0.28,0.51,West,Far
+982,Idaho,Mar,2,30.4,0.49,0.32,West,Far
+983,Illinois,Mar,2,30.9,0.33,0.48,Midwest,Far
+984,Indiana,Mar,2,33,0.42,0.37,Midwest,Far
+985,Iowa,Mar,2,40.9,0.41,0.4,Midwest,Far
+986,Kansas,Mar,2,37.2,0.46,0.31,Midwest,Far
+987,Kentucky,Mar,2,35.8,0.44,0.43,South,Far
+988,Louisiana,Mar,2,23.6,0.41,0.43,South,Far
+989,Maine,Mar,2,31.4,0.36,0.47,Northeast,Far
+990,9yland,Mar,2,41.6,0.31,0.55,South,Far
+991,Massachusetts,Mar,2,43.1,0.27,0.56,Northeast,Far
+992,Michigan,Mar,2,29.8,0.34,0.47,Midwest,Far
+993,Minnesota,Mar,2,41,0.39,0.46,Midwest,Far
+994,Mississippi,Mar,2,26.1,0.44,0.42,South,Far
+995,Missouri,Mar,2,36.6,0.41,0.42,Midwest,Far
+996,Montana,Mar,2,34.2,0.49,0.3,West,Far
+997,Nebraska,Mar,2,39.5,0.47,0.36,Midwest,Far
+998,Nevada,Mar,2,20.3,0.37,0.46,West,Far
+999,New Hampshire,Mar,2,35.5,0.35,0.44,Northeast,Far
+1000,New Jersey,Mar,2,NA,0.3,0.51,Northeast,Far
+1001,New Mexico,Mar,2,31.5,0.37,0.48,West,Far
+1002,New York,Mar,2,37.3,0.28,0.53,Northeast,Far
+1003,North Carolina,Mar,2,41.8,0.41,0.43,South,Far
+1004,North Dakota,Mar,2,39,0.5,0.33,Midwest,Far
+1005,Ohio,Mar,2,35.2,0.42,0.4,Midwest,Far
+1006,Oklahoma,Mar,2,37,0.45,0.4,South,Far
+1007,Oregon,Mar,2,33,0.32,0.47,West,Far
+1008,Pennsylvania,Mar,2,36.7,0.39,0.46,Northeast,Far
+1009,Rhode Island,Mar,2,45.8,0.3,0.48,Northeast,Far
+1010,South Carolina,Mar,2,28.8,0.43,0.39,South,Far
+1011,South Dakota,Mar,2,41.1,0.53,0.37,Midwest,Far
+1012,Tennessee,Mar,2,31.4,0.48,0.36,South,Far
+1013,Texas,Mar,2,32.4,0.39,0.4,South,Far
+1014,Utah,Mar,2,33.7,0.54,0.3,West,Far
+1015,Vermont,Mar,2,37.5,0.29,0.57,Northeast,Far
+1016,Virginia,Mar,2,41.2,0.43,0.39,South,Far
+1017,Washington,Mar,2,41.1,0.33,0.44,West,Far
+1018,West Virginia,Mar,2,32.2,0.43,0.41,South,Far
+1019,Wisconsin,Mar,2,40.4,0.42,0.42,Midwest,Far
+1020,Wyoming,Mar,2,27.8,0.57,0.25,West,Far
+1021,Alabama,Apr,2,30.7,0.52,0.35,South,Far
+1022,Alaska,Apr,2,32.8,0.39,0.32,West,Far
+1023,Arizona,Apr,2,30.8,0.4,0.39,West,Far
+1024,Arkansas,Apr,2,34.4,0.46,0.38,South,Far
+1025,California,Apr,2,33,0.3,0.49,West,Far
+1026,Colorado,Apr,2,37.5,0.41,0.42,West,Far
+1027,Connecticut,Apr,2,38.1,0.32,0.5,Northeast,Far
+1028,Delaware,Apr,2,32.7,0.29,0.55,South,Far
+1029,District of Columbia,Apr,2,NA,NA,NA,South,Far
+1030,Florida,Apr,2,25.3,0.37,0.44,South,Far
+1031,Georgia,Apr,2,30.5,0.41,0.41,South,Far
+1032,Hawaii,Apr,2,37.2,0.28,0.51,West,Far
+1033,Idaho,Apr,2,30.6,0.49,0.32,West,Far
+1034,Illinois,Apr,2,31.5,0.33,0.48,Midwest,Far
+1035,Indiana,Apr,2,33,0.42,0.37,Midwest,Far
+1036,Iowa,Apr,2,41,0.41,0.4,Midwest,Far
+1037,Kansas,Apr,2,37.5,0.46,0.31,Midwest,Far
+1038,Kentucky,Apr,2,36.5,0.44,0.43,South,Far
+1039,Louisiana,Apr,2,23.9,0.41,0.43,South,Far
+1040,Maine,Apr,2,31.4,0.36,0.47,Northeast,Far
+1041,9yland,Apr,2,43,0.31,0.55,South,Far
+1042,Massachusetts,Apr,2,44.3,0.27,0.56,Northeast,Far
+1043,Michigan,Apr,2,30.4,0.34,0.47,Midwest,Far
+1044,Minnesota,Apr,2,41.2,0.39,0.46,Midwest,Far
+1045,Mississippi,Apr,2,26.1,0.44,0.42,South,Far
+1046,Missouri,Apr,2,37.6,0.41,0.42,Midwest,Far
+1047,Montana,Apr,2,34.6,0.49,0.3,West,Far
+1048,Nebraska,Apr,2,40.4,0.47,0.36,Midwest,Far
+1049,Nevada,Apr,2,20.3,0.37,0.46,West,Far
+1050,New Hampshire,Apr,2,36.9,0.35,0.44,Northeast,Far
+1051,New Jersey,Apr,2,NA,0.3,0.51,Northeast,Far
+1052,New Mexico,Apr,2,33.6,0.37,0.48,West,Far
+1053,New York,Apr,2,38,0.28,0.53,Northeast,Far
+1054,North Carolina,Apr,2,43,0.41,0.43,South,Far
+1055,North Dakota,Apr,2,40.3,0.5,0.33,Midwest,Far
+1056,Ohio,Apr,2,35.7,0.42,0.4,Midwest,Far
+1057,Oklahoma,Apr,2,38.5,0.45,0.4,South,Far
+1058,Oregon,Apr,2,33.9,0.32,0.47,West,Far
+1059,Pennsylvania,Apr,2,36.9,0.39,0.46,Northeast,Far
+1060,Rhode Island,Apr,2,47.9,0.3,0.48,Northeast,Far
+1061,South Carolina,Apr,2,29.5,0.43,0.39,South,Far
+1062,South Dakota,Apr,2,41.1,0.53,0.37,Midwest,Far
+1063,Tennessee,Apr,2,33.3,0.48,0.36,South,Far
+1064,Texas,Apr,2,33.3,0.39,0.4,South,Far
+1065,Utah,Apr,2,34.2,0.54,0.3,West,Far
+1066,Vermont,Apr,2,37.8,0.29,0.57,Northeast,Far
+1067,Virginia,Apr,2,41.5,0.43,0.39,South,Far
+1068,Washington,Apr,2,41.3,0.33,0.44,West,Far
+1069,West Virginia,Apr,2,32.5,0.43,0.41,South,Far
+1070,Wisconsin,Apr,2,40.4,0.42,0.42,Midwest,Far
+1071,Wyoming,Apr,2,28,0.57,0.25,West,Far
+1072,Alabama,May,2,30.7,0.52,0.35,South,Far
+1073,Alaska,May,2,34.8,0.39,0.32,West,Far
+1074,Arizona,May,2,31.6,0.4,0.39,West,Far
+1075,Arkansas,May,2,34.4,0.46,0.38,South,Far
+1076,California,May,2,33.7,0.3,0.49,West,Far
+1077,Colorado,May,2,38.1,0.41,0.42,West,Far
+1078,Connecticut,May,2,40.5,0.32,0.5,Northeast,Far
+1079,Delaware,May,2,32.7,0.29,0.55,South,Far
+1080,District of Columbia,May,2,NA,NA,NA,South,Far
+1081,Florida,May,2,25.3,0.37,0.44,South,Far
+1082,Georgia,May,2,30.5,0.41,0.41,South,Far
+1083,Hawaii,May,2,38.1,0.28,0.51,West,Far
+1084,Idaho,May,2,30.6,0.49,0.32,West,Far
+1085,Illinois,May,2,31.5,0.33,0.48,Midwest,Far
+1086,Indiana,May,2,33,0.42,0.37,Midwest,Far
+1087,Iowa,May,2,41,0.41,0.4,Midwest,Far
+1088,Kansas,May,2,37.5,0.46,0.31,Midwest,Far
+1089,Kentucky,May,2,36.5,0.44,0.43,South,Far
+1090,Louisiana,May,2,24.1,0.41,0.43,South,Far
+1091,Maine,May,2,31.4,0.36,0.47,Northeast,Far
+1092,9yland,May,2,43.6,0.31,0.55,South,Far
+1093,Massachusetts,May,2,45,0.27,0.56,Northeast,Far
+1094,Michigan,May,2,31,0.34,0.47,Midwest,Far
+1095,Minnesota,May,2,42.3,0.39,0.46,Midwest,Far
+1096,Mississippi,May,2,26.1,0.44,0.42,South,Far
+1097,Missouri,May,2,37.6,0.41,0.42,Midwest,Far
+1098,Montana,May,2,36.5,0.49,0.3,West,Far
+1099,Nebraska,May,2,40.4,0.47,0.36,Midwest,Far
+1100,Nevada,May,2,20.3,0.37,0.46,West,Far
+1101,New Hampshire,May,2,38.1,0.35,0.44,Northeast,Far
+1102,New Jersey,May,2,NA,0.3,0.51,Northeast,Far
+1103,New Mexico,May,2,33.6,0.37,0.48,West,Far
+1104,New York,May,2,38.6,0.28,0.53,Northeast,Far
+1105,North Carolina,May,2,43.5,0.41,0.43,South,Far
+1106,North Dakota,May,2,40.3,0.5,0.33,Midwest,Far
+1107,Ohio,May,2,36.1,0.42,0.4,Midwest,Far
+1108,Oklahoma,May,2,39.9,0.45,0.4,South,Far
+1109,Oregon,May,2,33.9,0.32,0.47,West,Far
+1110,Pennsylvania,May,2,36.9,0.39,0.46,Northeast,Far
+1111,Rhode Island,May,2,48.7,0.3,0.48,Northeast,Far
+1112,South Carolina,May,2,29.5,0.43,0.39,South,Far
+1113,South Dakota,May,2,41.1,0.53,0.37,Midwest,Far
+1114,Tennessee,May,2,33.3,0.48,0.36,South,Far
+1115,Texas,May,2,33.5,0.39,0.4,South,Far
+1116,Utah,May,2,34.7,0.54,0.3,West,Far
+1117,Vermont,May,2,37.8,0.29,0.57,Northeast,Far
+1118,Virginia,May,2,42.6,0.43,0.39,South,Far
+1119,Washington,May,2,41.3,0.33,0.44,West,Far
+1120,West Virginia,May,2,32.5,0.43,0.41,South,Far
+1121,Wisconsin,May,2,40.4,0.42,0.42,Midwest,Far
+1122,Wyoming,May,2,28,0.57,0.25,West,Far
+1123,Alabama,Jul,3,0,0.52,0.35,South,Far
+1124,Alaska,Jul,3,0,0.39,0.32,West,Far
+1125,Arizona,Jul,3,0,0.4,0.39,West,Far
+1126,Arkansas,Jul,3,0,0.46,0.38,South,Far
+1127,California,Jul,3,0,0.3,0.49,West,Far
+1128,Colorado,Jul,3,0,0.41,0.42,West,Far
+1129,Connecticut,Jul,3,0,0.32,0.5,Northeast,Far
+1130,Delaware,Jul,3,0,0.29,0.55,South,Far
+1131,District of Columbia,Jul,3,NA,NA,NA,South,Far
+1132,Florida,Jul,3,0,0.37,0.44,South,Far
+1133,Georgia,Jul,3,0,0.41,0.41,South,Far
+1134,Hawaii,Jul,3,0,0.28,0.51,West,Far
+1135,Idaho,Jul,3,0,0.49,0.32,West,Far
+1136,Illinois,Jul,3,0,0.33,0.48,Midwest,Far
+1137,Indiana,Jul,3,0,0.42,0.37,Midwest,Far
+1138,Iowa,Jul,3,0,0.41,0.4,Midwest,Far
+1139,Kansas,Jul,3,0,0.46,0.31,Midwest,Far
+1140,Kentucky,Jul,3,0,0.44,0.43,South,Far
+1141,Louisiana,Jul,3,0,0.41,0.43,South,Far
+1142,Maine,Jul,3,0,0.36,0.47,Northeast,Far
+1143,9yland,Jul,3,0,0.31,0.55,South,Far
+1144,Massachusetts,Jul,3,0,0.27,0.56,Northeast,Far
+1145,Michigan,Jul,3,0,0.34,0.47,Midwest,Far
+1146,Minnesota,Jul,3,0.1,0.39,0.46,Midwest,Far
+1147,Mississippi,Jul,3,0,0.44,0.42,South,Far
+1148,Missouri,Jul,3,0,0.41,0.42,Midwest,Far
+1149,Montana,Jul,3,0,0.49,0.3,West,Far
+1150,Nebraska,Jul,3,0,0.47,0.36,Midwest,Far
+1151,Nevada,Jul,3,0,0.37,0.46,West,Far
+1152,New Hampshire,Jul,3,0,0.35,0.44,Northeast,Far
+1153,New Jersey,Jul,3,NA,0.3,0.51,Northeast,Far
+1154,New Mexico,Jul,3,0,0.37,0.48,West,Far
+1155,New York,Jul,3,0.1,0.28,0.53,Northeast,Far
+1156,North Carolina,Jul,3,0,0.41,0.43,South,Far
+1157,North Dakota,Jul,3,0,0.5,0.33,Midwest,Far
+1158,Ohio,Jul,3,0,0.42,0.4,Midwest,Far
+1159,Oklahoma,Jul,3,0,0.45,0.4,South,Far
+1160,Oregon,Jul,3,0,0.32,0.47,West,Far
+1161,Pennsylvania,Jul,3,0,0.39,0.46,Northeast,Far
+1162,Rhode Island,Jul,3,0,0.3,0.48,Northeast,Far
+1163,South Carolina,Jul,3,0,0.43,0.39,South,Far
+1164,South Dakota,Jul,3,0,0.53,0.37,Midwest,Far
+1165,Tennessee,Jul,3,0,0.48,0.36,South,Far
+1166,Texas,Jul,3,0.1,0.39,0.4,South,Far
+1167,Utah,Jul,3,0,0.54,0.3,West,Far
+1168,Vermont,Jul,3,0,0.29,0.57,Northeast,Far
+1169,Virginia,Jul,3,0,0.43,0.39,South,Far
+1170,Washington,Jul,3,0,0.33,0.44,West,Far
+1171,West Virginia,Jul,3,0,0.43,0.41,South,Far
+1172,Wisconsin,Jul,3,0,0.42,0.42,Midwest,Far
+1173,Wyoming,Jul,3,0,0.57,0.25,West,Far
+1174,Alabama,Aug,3,0,0.52,0.35,South,Far
+1175,Alaska,Aug,3,0,0.39,0.32,West,Far
+1176,Arizona,Aug,3,1.4,0.4,0.39,West,Far
+1177,Arkansas,Aug,3,0,0.46,0.38,South,Far
+1178,California,Aug,3,1.6,0.3,0.49,West,Far
+1179,Colorado,Aug,3,1.1,0.41,0.42,West,Far
+1180,Connecticut,Aug,3,1.1,0.32,0.5,Northeast,Far
+1181,Delaware,Aug,3,0,0.29,0.55,South,Far
+1182,District of Columbia,Aug,3,NA,NA,NA,South,Far
+1183,Florida,Aug,3,1.6,0.37,0.44,South,Far
+1184,Georgia,Aug,3,1.4,0.41,0.41,South,Far
+1185,Hawaii,Aug,3,1.6,0.28,0.51,West,Far
+1186,Idaho,Aug,3,0,0.49,0.32,West,Far
+1187,Illinois,Aug,3,0,0.33,0.48,Midwest,Far
+1188,Indiana,Aug,3,0.8,0.42,0.37,Midwest,Far
+1189,Iowa,Aug,3,1,0.41,0.4,Midwest,Far
+1190,Kansas,Aug,3,1.1,0.46,0.31,Midwest,Far
+1191,Kentucky,Aug,3,0,0.44,0.43,South,Far
+1192,Louisiana,Aug,3,0,0.41,0.43,South,Far
+1193,Maine,Aug,3,1.3,0.36,0.47,Northeast,Far
+1194,9yland,Aug,3,1.4,0.31,0.55,South,Far
+1195,Massachusetts,Aug,3,1.1,0.27,0.56,Northeast,Far
+1196,Michigan,Aug,3,1,0.34,0.47,Midwest,Far
+1197,Minnesota,Aug,3,1.3,0.39,0.46,Midwest,Far
+1198,Mississippi,Aug,3,0,0.44,0.42,South,Far
+1199,Missouri,Aug,3,0,0.41,0.42,Midwest,Far
+1200,Montana,Aug,3,0,0.49,0.3,West,Far
+1201,Nebraska,Aug,3,0,0.47,0.36,Midwest,Far
+1202,Nevada,Aug,3,0,0.37,0.46,West,Far
+1203,New Hampshire,Aug,3,0.7,0.35,0.44,Northeast,Far
+1204,New Jersey,Aug,3,NA,0.3,0.51,Northeast,Far
+1205,New Mexico,Aug,3,0,0.37,0.48,West,Far
+1206,New York,Aug,3,0.8,0.28,0.53,Northeast,Far
+1207,North Carolina,Aug,3,1.5,0.41,0.43,South,Far
+1208,North Dakota,Aug,3,0,0.5,0.33,Midwest,Far
+1209,Ohio,Aug,3,1.1,0.42,0.4,Midwest,Far
+1210,Oklahoma,Aug,3,0,0.45,0.4,South,Far
+1211,Oregon,Aug,3,0,0.32,0.47,West,Far
+1212,Pennsylvania,Aug,3,1.5,0.39,0.46,Northeast,Far
+1213,Rhode Island,Aug,3,0,0.3,0.48,Northeast,Far
+1214,South Carolina,Aug,3,1.4,0.43,0.39,South,Far
+1215,South Dakota,Aug,3,0,0.53,0.37,Midwest,Far
+1216,Tennessee,Aug,3,0,0.48,0.36,South,Far
+1217,Texas,Aug,3,1.5,0.39,0.4,South,Far
+1218,Utah,Aug,3,0.9,0.54,0.3,West,Far
+1219,Vermont,Aug,3,0,0.29,0.57,Northeast,Far
+1220,Virginia,Aug,3,1.4,0.43,0.39,South,Far
+1221,Washington,Aug,3,1.2,0.33,0.44,West,Far
+1222,West Virginia,Aug,3,1.1,0.43,0.41,South,Far
+1223,Wisconsin,Aug,3,0,0.42,0.42,Midwest,Far
+1224,Wyoming,Aug,3,0,0.57,0.25,West,Far
+1225,Alabama,Sep,3,9,0.52,0.35,South,Near
+1226,Alaska,Sep,3,8.2,0.39,0.32,West,Near
+1227,Arizona,Sep,3,8.8,0.4,0.39,West,Near
+1228,Arkansas,Sep,3,6.8,0.46,0.38,South,Near
+1229,California,Sep,3,9.3,0.3,0.49,West,Near
+1230,Colorado,Sep,3,8.4,0.41,0.42,West,Near
+1231,Connecticut,Sep,3,6.3,0.32,0.5,Northeast,Near
+1232,Delaware,Sep,3,11.1,0.29,0.55,South,Near
+1233,District of Columbia,Sep,3,NA,NA,NA,South,Near
+1234,Florida,Sep,3,7.8,0.37,0.44,South,Near
+1235,Georgia,Sep,3,6,0.41,0.41,South,Near
+1236,Hawaii,Sep,3,10.7,0.28,0.51,West,Near
+1237,Idaho,Sep,3,5.8,0.49,0.32,West,Near
+1238,Illinois,Sep,3,7.6,0.33,0.48,Midwest,Near
+1239,Indiana,Sep,3,8.4,0.42,0.37,Midwest,Near
+1240,Iowa,Sep,3,9.3,0.41,0.4,Midwest,Near
+1241,Kansas,Sep,3,8.6,0.46,0.31,Midwest,Near
+1242,Kentucky,Sep,3,8.7,0.44,0.43,South,Near
+1243,Louisiana,Sep,3,7.5,0.41,0.43,South,Near
+1244,Maine,Sep,3,7.3,0.36,0.47,Northeast,Near
+1245,9yland,Sep,3,9.5,0.31,0.55,South,Near
+1246,Massachusetts,Sep,3,8.5,0.27,0.56,Northeast,Near
+1247,Michigan,Sep,3,8.1,0.34,0.47,Midwest,Near
+1248,Minnesota,Sep,3,8.5,0.39,0.46,Midwest,Near
+1249,Mississippi,Sep,3,6.4,0.44,0.42,South,Near
+1250,Missouri,Sep,3,8,0.41,0.42,Midwest,Near
+1251,Montana,Sep,3,4.6,0.49,0.3,West,Near
+1252,Nebraska,Sep,3,6.9,0.47,0.36,Midwest,Near
+1253,Nevada,Sep,3,7.3,0.37,0.46,West,Near
+1254,New Hampshire,Sep,3,8.3,0.35,0.44,Northeast,Near
+1255,New Jersey,Sep,3,NA,0.3,0.51,Northeast,Near
+1256,New Mexico,Sep,3,7.8,0.37,0.48,West,Near
+1257,New York,Sep,3,7.8,0.28,0.53,Northeast,Near
+1258,North Carolina,Sep,3,7,0.41,0.43,South,Near
+1259,North Dakota,Sep,3,6.2,0.5,0.33,Midwest,Near
+1260,Ohio,Sep,3,9.3,0.42,0.4,Midwest,Near
+1261,Oklahoma,Sep,3,7.3,0.45,0.4,South,Near
+1262,Oregon,Sep,3,6,0.32,0.47,West,Near
+1263,Pennsylvania,Sep,3,10.1,0.39,0.46,Northeast,Near
+1264,Rhode Island,Sep,3,6.9,0.3,0.48,Northeast,Near
+1265,South Carolina,Sep,3,7,0.43,0.39,South,Near
+1266,South Dakota,Sep,3,8.3,0.53,0.37,Midwest,Near
+1267,Tennessee,Sep,3,9.4,0.48,0.36,South,Near
+1268,Texas,Sep,3,9.1,0.39,0.4,South,Near
+1269,Utah,Sep,3,7.8,0.54,0.3,West,Near
+1270,Vermont,Sep,3,5.5,0.29,0.57,Northeast,Near
+1271,Virginia,Sep,3,9.9,0.43,0.39,South,Near
+1272,Washington,Sep,3,10.6,0.33,0.44,West,Near
+1273,West Virginia,Sep,3,6.8,0.43,0.41,South,Near
+1274,Wisconsin,Sep,3,6,0.42,0.42,Midwest,Near
+1275,Wyoming,Sep,3,4.6,0.57,0.25,West,Near
+1276,Alabama,Oct,3,28.4,0.52,0.35,South,Near
+1277,Alaska,Oct,3,23.1,0.39,0.32,West,Near
+1278,Arizona,Oct,3,28.8,0.4,0.39,West,Near
+1279,Arkansas,Oct,3,29,0.46,0.38,South,Near
+1280,California,Oct,3,24.8,0.3,0.49,West,Near
+1281,Colorado,Oct,3,32.8,0.41,0.42,West,Near
+1282,Connecticut,Oct,3,32.4,0.32,0.5,Northeast,Near
+1283,Delaware,Oct,3,32.4,0.29,0.55,South,Near
+1284,District of Columbia,Oct,3,NA,NA,NA,South,Near
+1285,Florida,Oct,3,19.8,0.37,0.44,South,Near
+1286,Georgia,Oct,3,20.4,0.41,0.41,South,Near
+1287,Hawaii,Oct,3,23.4,0.28,0.51,West,Near
+1288,Idaho,Oct,3,26.2,0.49,0.32,West,Near
+1289,Illinois,Oct,3,26.5,0.33,0.48,Midwest,Near
+1290,Indiana,Oct,3,29.8,0.42,0.37,Midwest,Near
+1291,Iowa,Oct,3,36.2,0.41,0.4,Midwest,Near
+1292,Kansas,Oct,3,33,0.46,0.31,Midwest,Near
+1293,Kentucky,Oct,3,28.1,0.44,0.43,South,Near
+1294,Louisiana,Oct,3,22.2,0.41,0.43,South,Near
+1295,Maine,Oct,3,28,0.36,0.47,Northeast,Near
+1296,9yland,Oct,3,32.3,0.31,0.55,South,Near
+1297,Massachusetts,Oct,3,30.9,0.27,0.56,Northeast,Near
+1298,Michigan,Oct,3,28.8,0.34,0.47,Midwest,Near
+1299,Minnesota,Oct,3,32.7,0.39,0.46,Midwest,Near
+1300,Mississippi,Oct,3,22.3,0.44,0.42,South,Near
+1301,Missouri,Oct,3,32.5,0.41,0.42,Midwest,Near
+1302,Montana,Oct,3,28.8,0.49,0.3,West,Near
+1303,Nebraska,Oct,3,33.2,0.47,0.36,Midwest,Near
+1304,Nevada,Oct,3,17.5,0.37,0.46,West,Near
+1305,New Hampshire,Oct,3,27.4,0.35,0.44,Northeast,Near
+1306,New Jersey,Oct,3,NA,0.3,0.51,Northeast,Near
+1307,New Mexico,Oct,3,26.4,0.37,0.48,West,Near
+1308,New York,Oct,3,27.1,0.28,0.53,Northeast,Near
+1309,North Carolina,Oct,3,30.8,0.41,0.43,South,Near
+1310,North Dakota,Oct,3,30.5,0.5,0.33,Midwest,Near
+1311,Ohio,Oct,3,31,0.42,0.4,Midwest,Near
+1312,Oklahoma,Oct,3,31.4,0.45,0.4,South,Near
+1313,Oregon,Oct,3,24.2,0.32,0.47,West,Near
+1314,Pennsylvania,Oct,3,34.6,0.39,0.46,Northeast,Near
+1315,Rhode Island,Oct,3,31.9,0.3,0.48,Northeast,Near
+1316,South Carolina,Oct,3,27.5,0.43,0.39,South,Near
+1317,South Dakota,Oct,3,36.2,0.53,0.37,Midwest,Near
+1318,Tennessee,Oct,3,27.3,0.48,0.36,South,Near
+1319,Texas,Oct,3,27.4,0.39,0.4,South,Near
+1320,Utah,Oct,3,29.8,0.54,0.3,West,Near
+1321,Vermont,Oct,3,29.8,0.29,0.57,Northeast,Near
+1322,Virginia,Oct,3,33.1,0.43,0.39,South,Near
+1323,Washington,Oct,3,35.6,0.33,0.44,West,Near
+1324,West Virginia,Oct,3,31.6,0.43,0.41,South,Near
+1325,Wisconsin,Oct,3,28.5,0.42,0.42,Midwest,Near
+1326,Wyoming,Oct,3,23.6,0.57,0.25,West,Near
+1327,Alabama,Nov,3,37.1,0.52,0.35,South,Near
+1328,Alaska,Nov,3,31.4,0.39,0.32,West,Near
+1329,Arizona,Nov,3,35.7,0.4,0.39,West,Near
+1330,Arkansas,Nov,3,39.8,0.46,0.38,South,Near
+1331,California,Nov,3,31.6,0.3,0.49,West,Near
+1332,Colorado,Nov,3,43.1,0.41,0.42,West,Near
+1333,Connecticut,Nov,3,43.9,0.32,0.5,Northeast,Near
+1334,Delaware,Nov,3,45,0.29,0.55,South,Near
+1335,District of Columbia,Nov,3,NA,NA,NA,South,Near
+1336,Florida,Nov,3,26.1,0.37,0.44,South,Near
+1337,Georgia,Nov,3,28.2,0.41,0.41,South,Near
+1338,Hawaii,Nov,3,30.5,0.28,0.51,West,Near
+1339,Idaho,Nov,3,32.9,0.49,0.32,West,Near
+1340,Illinois,Nov,3,35,0.33,0.48,Midwest,Near
+1341,Indiana,Nov,3,40.4,0.42,0.37,Midwest,Near
+1342,Iowa,Nov,3,46,0.41,0.4,Midwest,Near
+1343,Kansas,Nov,3,41,0.46,0.31,Midwest,Near
+1344,Kentucky,Nov,3,36.9,0.44,0.43,South,Near
+1345,Louisiana,Nov,3,30.9,0.41,0.43,South,Near
+1346,Maine,Nov,3,40,0.36,0.47,Northeast,Near
+1347,9yland,Nov,3,42.5,0.31,0.55,South,Near
+1348,Massachusetts,Nov,3,42,0.27,0.56,Northeast,Near
+1349,Michigan,Nov,3,38.3,0.34,0.47,Midwest,Near
+1350,Minnesota,Nov,3,42.3,0.39,0.46,Midwest,Near
+1351,Mississippi,Nov,3,33.2,0.44,0.42,South,Near
+1352,Missouri,Nov,3,40.1,0.41,0.42,Midwest,Near
+1353,Montana,Nov,3,39.7,0.49,0.3,West,Near
+1354,Nebraska,Nov,3,43.5,0.47,0.36,Midwest,Near
+1355,Nevada,Nov,3,24.8,0.37,0.46,West,Near
+1356,New Hampshire,Nov,3,37.7,0.35,0.44,Northeast,Near
+1357,New Jersey,Nov,3,NA,0.3,0.51,Northeast,Near
+1358,New Mexico,Nov,3,36.1,0.37,0.48,West,Near
+1359,New York,Nov,3,37.2,0.28,0.53,Northeast,Near
+1360,North Carolina,Nov,3,40.5,0.41,0.43,South,Near
+1361,North Dakota,Nov,3,40.2,0.5,0.33,Midwest,Near
+1362,Ohio,Nov,3,39.7,0.42,0.4,Midwest,Near
+1363,Oklahoma,Nov,3,40.3,0.45,0.4,South,Near
+1364,Oregon,Nov,3,33.2,0.32,0.47,West,Near
+1365,Pennsylvania,Nov,3,44.7,0.39,0.46,Northeast,Near
+1366,Rhode Island,Nov,3,44.9,0.3,0.48,Northeast,Near
+1367,South Carolina,Nov,3,37,0.43,0.39,South,Near
+1368,South Dakota,Nov,3,47.4,0.53,0.37,Midwest,Near
+1369,Tennessee,Nov,3,35.3,0.48,0.36,South,Near
+1370,Texas,Nov,3,34.9,0.39,0.4,South,Near
+1371,Utah,Nov,3,39.2,0.54,0.3,West,Near
+1372,Vermont,Nov,3,44.4,0.29,0.57,Northeast,Near
+1373,Virginia,Nov,3,42.5,0.43,0.39,South,Near
+1374,Washington,Nov,3,46.4,0.33,0.44,West,Near
+1375,West Virginia,Nov,3,41,0.43,0.41,South,Near
+1376,Wisconsin,Nov,3,40,0.42,0.42,Midwest,Near
+1377,Wyoming,Nov,3,33.5,0.57,0.25,West,Near
+1378,Alabama,Dec,3,40.4,0.52,0.35,South,Flu
+1379,Alaska,Dec,3,34.5,0.39,0.32,West,Flu
+1380,Arizona,Dec,3,38.3,0.4,0.39,West,Flu
+1381,Arkansas,Dec,3,41.9,0.46,0.38,South,Flu
+1382,California,Dec,3,35.1,0.3,0.49,West,Flu
+1383,Colorado,Dec,3,45.9,0.41,0.42,West,Flu
+1384,Connecticut,Dec,3,48,0.32,0.5,Northeast,Flu
+1385,Delaware,Dec,3,47.6,0.29,0.55,South,Flu
+1386,District of Columbia,Dec,3,NA,NA,NA,South,Flu
+1387,Florida,Dec,3,27.8,0.37,0.44,South,Flu
+1388,Georgia,Dec,3,32.6,0.41,0.41,South,Flu
+1389,Hawaii,Dec,3,35,0.28,0.51,West,Flu
+1390,Idaho,Dec,3,36,0.49,0.32,West,Flu
+1391,Illinois,Dec,3,36.8,0.33,0.48,Midwest,Flu
+1392,Indiana,Dec,3,44.6,0.42,0.37,Midwest,Flu
+1393,Iowa,Dec,3,49.6,0.41,0.4,Midwest,Flu
+1394,Kansas,Dec,3,43.5,0.46,0.31,Midwest,Flu
+1395,Kentucky,Dec,3,38.7,0.44,0.43,South,Flu
+1396,Louisiana,Dec,3,33.3,0.41,0.43,South,Flu
+1397,Maine,Dec,3,42.9,0.36,0.47,Northeast,Flu
+1398,9yland,Dec,3,45.5,0.31,0.55,South,Flu
+1399,Massachusetts,Dec,3,46.6,0.27,0.56,Northeast,Flu
+1400,Michigan,Dec,3,43.9,0.34,0.47,Midwest,Flu
+1401,Minnesota,Dec,3,44.9,0.39,0.46,Midwest,Flu
+1402,Mississippi,Dec,3,39.5,0.44,0.42,South,Flu
+1403,Missouri,Dec,3,42.3,0.41,0.42,Midwest,Flu
+1404,Montana,Dec,3,42.2,0.49,0.3,West,Flu
+1405,Nebraska,Dec,3,46.7,0.47,0.36,Midwest,Flu
+1406,Nevada,Dec,3,26.9,0.37,0.46,West,Flu
+1407,New Hampshire,Dec,3,41.1,0.35,0.44,Northeast,Flu
+1408,New Jersey,Dec,3,NA,0.3,0.51,Northeast,Flu
+1409,New Mexico,Dec,3,39.2,0.37,0.48,West,Flu
+1410,New York,Dec,3,41.4,0.28,0.53,Northeast,Flu
+1411,North Carolina,Dec,3,44.7,0.41,0.43,South,Flu
+1412,North Dakota,Dec,3,42.6,0.5,0.33,Midwest,Flu
+1413,Ohio,Dec,3,43.2,0.42,0.4,Midwest,Flu
+1414,Oklahoma,Dec,3,43.1,0.45,0.4,South,Flu
+1415,Oregon,Dec,3,38.2,0.32,0.47,West,Flu
+1416,Pennsylvania,Dec,3,47.8,0.39,0.46,Northeast,Flu
+1417,Rhode Island,Dec,3,49.4,0.3,0.48,Northeast,Flu
+1418,South Carolina,Dec,3,40.1,0.43,0.39,South,Flu
+1419,South Dakota,Dec,3,51.5,0.53,0.37,Midwest,Flu
+1420,Tennessee,Dec,3,39,0.48,0.36,South,Flu
+1421,Texas,Dec,3,39.1,0.39,0.4,South,Flu
+1422,Utah,Dec,3,41.4,0.54,0.3,West,Flu
+1423,Vermont,Dec,3,49.1,0.29,0.57,Northeast,Flu
+1424,Virginia,Dec,3,45.8,0.43,0.39,South,Flu
+1425,Washington,Dec,3,49.6,0.33,0.44,West,Flu
+1426,West Virginia,Dec,3,44.8,0.43,0.41,South,Flu
+1427,Wisconsin,Dec,3,42.6,0.42,0.42,Midwest,Flu
+1428,Wyoming,Dec,3,35.7,0.57,0.25,West,Flu
+1429,Alabama,Jan,3,43.8,0.52,0.35,South,Flu
+1430,Alaska,Jan,3,36.4,0.39,0.32,West,Flu
+1431,Arizona,Jan,3,42,0.4,0.39,West,Flu
+1432,Arkansas,Jan,3,43.9,0.46,0.38,South,Flu
+1433,California,Jan,3,39.9,0.3,0.49,West,Flu
+1434,Colorado,Jan,3,49,0.41,0.42,West,Flu
+1435,Connecticut,Jan,3,50.8,0.32,0.5,Northeast,Flu
+1436,Delaware,Jan,3,49.2,0.29,0.55,South,Flu
+1437,District of Columbia,Jan,3,NA,NA,NA,South,Flu
+1438,Florida,Jan,3,30.6,0.37,0.44,South,Flu
+1439,Georgia,Jan,3,36.1,0.41,0.41,South,Flu
+1440,Hawaii,Jan,3,39.7,0.28,0.51,West,Flu
+1441,Idaho,Jan,3,38.4,0.49,0.32,West,Flu
+1442,Illinois,Jan,3,39.4,0.33,0.48,Midwest,Flu
+1443,Indiana,Jan,3,47.5,0.42,0.37,Midwest,Flu
+1444,Iowa,Jan,3,52.6,0.41,0.4,Midwest,Flu
+1445,Kansas,Jan,3,45.7,0.46,0.31,Midwest,Flu
+1446,Kentucky,Jan,3,42.7,0.44,0.43,South,Flu
+1447,Louisiana,Jan,3,37.5,0.41,0.43,South,Flu
+1448,Maine,Jan,3,45.2,0.36,0.47,Northeast,Flu
+1449,9yland,Jan,3,48.4,0.31,0.55,South,Flu
+1450,Massachusetts,Jan,3,51,0.27,0.56,Northeast,Flu
+1451,Michigan,Jan,3,45.6,0.34,0.47,Midwest,Flu
+1452,Minnesota,Jan,3,47,0.39,0.46,Midwest,Flu
+1453,Mississippi,Jan,3,43.6,0.44,0.42,South,Flu
+1454,Missouri,Jan,3,46.1,0.41,0.42,Midwest,Flu
+1455,Montana,Jan,3,44.1,0.49,0.3,West,Flu
+1456,Nebraska,Jan,3,48.9,0.47,0.36,Midwest,Flu
+1457,Nevada,Jan,3,28.6,0.37,0.46,West,Flu
+1458,New Hampshire,Jan,3,43.9,0.35,0.44,Northeast,Flu
+1459,New Jersey,Jan,3,NA,0.3,0.51,Northeast,Flu
+1460,New Mexico,Jan,3,42.5,0.37,0.48,West,Flu
+1461,New York,Jan,3,45.9,0.28,0.53,Northeast,Flu
+1462,North Carolina,Jan,3,48.4,0.41,0.43,South,Flu
+1463,North Dakota,Jan,3,44.5,0.5,0.33,Midwest,Flu
+1464,Ohio,Jan,3,46.6,0.42,0.4,Midwest,Flu
+1465,Oklahoma,Jan,3,46,0.45,0.4,South,Flu
+1466,Oregon,Jan,3,40.9,0.32,0.47,West,Flu
+1467,Pennsylvania,Jan,3,49.6,0.39,0.46,Northeast,Flu
+1468,Rhode Island,Jan,3,52,0.3,0.48,Northeast,Flu
+1469,South Carolina,Jan,3,44.1,0.43,0.39,South,Flu
+1470,South Dakota,Jan,3,52.8,0.53,0.37,Midwest,Flu
+1471,Tennessee,Jan,3,42.8,0.48,0.36,South,Flu
+1472,Texas,Jan,3,43.2,0.39,0.4,South,Flu
+1473,Utah,Jan,3,44,0.54,0.3,West,Flu
+1474,Vermont,Jan,3,51.3,0.29,0.57,Northeast,Flu
+1475,Virginia,Jan,3,49.4,0.43,0.39,South,Flu
+1476,Washington,Jan,3,51.3,0.33,0.44,West,Flu
+1477,West Virginia,Jan,3,47.7,0.43,0.41,South,Flu
+1478,Wisconsin,Jan,3,46.1,0.42,0.42,Midwest,Flu
+1479,Wyoming,Jan,3,37.8,0.57,0.25,West,Flu
+1480,Alabama,Feb,3,47.4,0.52,0.35,South,Flu
+1481,Alaska,Feb,3,37.7,0.39,0.32,West,Flu
+1482,Arizona,Feb,3,43.8,0.4,0.39,West,Flu
+1483,Arkansas,Feb,3,44.9,0.46,0.38,South,Flu
+1484,California,Feb,3,41.9,0.3,0.49,West,Flu
+1485,Colorado,Feb,3,50.8,0.41,0.42,West,Flu
+1486,Connecticut,Feb,3,52.2,0.32,0.5,Northeast,Flu
+1487,Delaware,Feb,3,50.7,0.29,0.55,South,Flu
+1488,District of Columbia,Feb,3,NA,NA,NA,South,Flu
+1489,Florida,Feb,3,31.9,0.37,0.44,South,Flu
+1490,Georgia,Feb,3,38.6,0.41,0.41,South,Flu
+1491,Hawaii,Feb,3,42.2,0.28,0.51,West,Flu
+1492,Idaho,Feb,3,38.8,0.49,0.32,West,Flu
+1493,Illinois,Feb,3,40.6,0.33,0.48,Midwest,Flu
+1494,Indiana,Feb,3,49.1,0.42,0.37,Midwest,Flu
+1495,Iowa,Feb,3,53.6,0.41,0.4,Midwest,Flu
+1496,Kansas,Feb,3,46.6,0.46,0.31,Midwest,Flu
+1497,Kentucky,Feb,3,45,0.44,0.43,South,Flu
+1498,Louisiana,Feb,3,40.6,0.41,0.43,South,Flu
+1499,Maine,Feb,3,47.1,0.36,0.47,Northeast,Flu
+1500,9yland,Feb,3,50.2,0.31,0.55,South,Flu
+1501,Massachusetts,Feb,3,52,0.27,0.56,Northeast,Flu
+1502,Michigan,Feb,3,46.8,0.34,0.47,Midwest,Flu
+1503,Minnesota,Feb,3,48.3,0.39,0.46,Midwest,Flu
+1504,Mississippi,Feb,3,44.8,0.44,0.42,South,Flu
+1505,Missouri,Feb,3,47.6,0.41,0.42,Midwest,Flu
+1506,Montana,Feb,3,45.8,0.49,0.3,West,Flu
+1507,Nebraska,Feb,3,50.2,0.47,0.36,Midwest,Flu
+1508,Nevada,Feb,3,29,0.37,0.46,West,Flu
+1509,New Hampshire,Feb,3,45.4,0.35,0.44,Northeast,Flu
+1510,New Jersey,Feb,3,NA,0.3,0.51,Northeast,Flu
+1511,New Mexico,Feb,3,44.5,0.37,0.48,West,Flu
+1512,New York,Feb,3,47.9,0.28,0.53,Northeast,Flu
+1513,North Carolina,Feb,3,50.7,0.41,0.43,South,Flu
+1514,North Dakota,Feb,3,45.3,0.5,0.33,Midwest,Flu
+1515,Ohio,Feb,3,48,0.42,0.4,Midwest,Flu
+1516,Oklahoma,Feb,3,48,0.45,0.4,South,Flu
+1517,Oregon,Feb,3,43.3,0.32,0.47,West,Flu
+1518,Pennsylvania,Feb,3,52.4,0.39,0.46,Northeast,Flu
+1519,Rhode Island,Feb,3,55.2,0.3,0.48,Northeast,Flu
+1520,South Carolina,Feb,3,45.1,0.43,0.39,South,Flu
+1521,South Dakota,Feb,3,54.6,0.53,0.37,Midwest,Flu
+1522,Tennessee,Feb,3,44.8,0.48,0.36,South,Flu
+1523,Texas,Feb,3,45.2,0.39,0.4,South,Flu
+1524,Utah,Feb,3,45.8,0.54,0.3,West,Flu
+1525,Vermont,Feb,3,52.3,0.29,0.57,Northeast,Flu
+1526,Virginia,Feb,3,50.8,0.43,0.39,South,Flu
+1527,Washington,Feb,3,53.1,0.33,0.44,West,Flu
+1528,West Virginia,Feb,3,49,0.43,0.41,South,Flu
+1529,Wisconsin,Feb,3,46.7,0.42,0.42,Midwest,Flu
+1530,Wyoming,Feb,3,38.1,0.57,0.25,West,Flu
+1531,Alabama,Mar,3,48.2,0.52,0.35,South,Far
+1532,Alaska,Mar,3,40.4,0.39,0.32,West,Far
+1533,Arizona,Mar,3,45.1,0.4,0.39,West,Far
+1534,Arkansas,Mar,3,46.7,0.46,0.38,South,Far
+1535,California,Mar,3,43.3,0.3,0.49,West,Far
+1536,Colorado,Mar,3,51.4,0.41,0.42,West,Far
+1537,Connecticut,Mar,3,52.3,0.32,0.5,Northeast,Far
+1538,Delaware,Mar,3,52.1,0.29,0.55,South,Far
+1539,District of Columbia,Mar,3,NA,NA,NA,South,Far
+1540,Florida,Mar,3,33.8,0.37,0.44,South,Far
+1541,Georgia,Mar,3,43.4,0.41,0.41,South,Far
+1542,Hawaii,Mar,3,44.2,0.28,0.51,West,Far
+1543,Idaho,Mar,3,41.9,0.49,0.32,West,Far
+1544,Illinois,Mar,3,40.9,0.33,0.48,Midwest,Far
+1545,Indiana,Mar,3,49.8,0.42,0.37,Midwest,Far
+1546,Iowa,Mar,3,53.9,0.41,0.4,Midwest,Far
+1547,Kansas,Mar,3,47.2,0.46,0.31,Midwest,Far
+1548,Kentucky,Mar,3,45.2,0.44,0.43,South,Far
+1549,Louisiana,Mar,3,41.4,0.41,0.43,South,Far
+1550,Maine,Mar,3,48,0.36,0.47,Northeast,Far
+1551,9yland,Mar,3,51.8,0.31,0.55,South,Far
+1552,Massachusetts,Mar,3,53.5,0.27,0.56,Northeast,Far
+1553,Michigan,Mar,3,47.3,0.34,0.47,Midwest,Far
+1554,Minnesota,Mar,3,48.8,0.39,0.46,Midwest,Far
+1555,Mississippi,Mar,3,45,0.44,0.42,South,Far
+1556,Missouri,Mar,3,48,0.41,0.42,Midwest,Far
+1557,Montana,Mar,3,46.5,0.49,0.3,West,Far
+1558,Nebraska,Mar,3,50.8,0.47,0.36,Midwest,Far
+1559,Nevada,Mar,3,30.4,0.37,0.46,West,Far
+1560,New Hampshire,Mar,3,46.5,0.35,0.44,Northeast,Far
+1561,New Jersey,Mar,3,NA,0.3,0.51,Northeast,Far
+1562,New Mexico,Mar,3,45.9,0.37,0.48,West,Far
+1563,New York,Mar,3,48.5,0.28,0.53,Northeast,Far
+1564,North Carolina,Mar,3,51.2,0.41,0.43,South,Far
+1565,North Dakota,Mar,3,45.5,0.5,0.33,Midwest,Far
+1566,Ohio,Mar,3,49,0.42,0.4,Midwest,Far
+1567,Oklahoma,Mar,3,49.7,0.45,0.4,South,Far
+1568,Oregon,Mar,3,45.4,0.32,0.47,West,Far
+1569,Pennsylvania,Mar,3,53.6,0.39,0.46,Northeast,Far
+1570,Rhode Island,Mar,3,55.8,0.3,0.48,Northeast,Far
+1571,South Carolina,Mar,3,45.8,0.43,0.39,South,Far
+1572,South Dakota,Mar,3,54.8,0.53,0.37,Midwest,Far
+1573,Tennessee,Mar,3,45.4,0.48,0.36,South,Far
+1574,Texas,Mar,3,46.4,0.39,0.4,South,Far
+1575,Utah,Mar,3,46.1,0.54,0.3,West,Far
+1576,Vermont,Mar,3,53.4,0.29,0.57,Northeast,Far
+1577,Virginia,Mar,3,51.1,0.43,0.39,South,Far
+1578,Washington,Mar,3,53.8,0.33,0.44,West,Far
+1579,West Virginia,Mar,3,49,0.43,0.41,South,Far
+1580,Wisconsin,Mar,3,47.3,0.42,0.42,Midwest,Far
+1581,Wyoming,Mar,3,38.4,0.57,0.25,West,Far
+1582,Alabama,Apr,3,48.8,0.52,0.35,South,Far
+1583,Alaska,Apr,3,40.4,0.39,0.32,West,Far
+1584,Arizona,Apr,3,45.5,0.4,0.39,West,Far
+1585,Arkansas,Apr,3,47.7,0.46,0.38,South,Far
+1586,California,Apr,3,43.6,0.3,0.49,West,Far
+1587,Colorado,Apr,3,52.6,0.41,0.42,West,Far
+1588,Connecticut,Apr,3,52.8,0.32,0.5,Northeast,Far
+1589,Delaware,Apr,3,52.6,0.29,0.55,South,Far
+1590,District of Columbia,Apr,3,NA,NA,NA,South,Far
+1591,Florida,Apr,3,33.9,0.37,0.44,South,Far
+1592,Georgia,Apr,3,43.4,0.41,0.41,South,Far
+1593,Hawaii,Apr,3,47,0.28,0.51,West,Far
+1594,Idaho,Apr,3,42.1,0.49,0.32,West,Far
+1595,Illinois,Apr,3,41.3,0.33,0.48,Midwest,Far
+1596,Indiana,Apr,3,50.9,0.42,0.37,Midwest,Far
+1597,Iowa,Apr,3,54.5,0.41,0.4,Midwest,Far
+1598,Kansas,Apr,3,47.5,0.46,0.31,Midwest,Far
+1599,Kentucky,Apr,3,46.1,0.44,0.43,South,Far
+1600,Louisiana,Apr,3,42.9,0.41,0.43,South,Far
+1601,Maine,Apr,3,48.2,0.36,0.47,Northeast,Far
+1602,9yland,Apr,3,52.7,0.31,0.55,South,Far
+1603,Massachusetts,Apr,3,53.9,0.27,0.56,Northeast,Far
+1604,Michigan,Apr,3,48,0.34,0.47,Midwest,Far
+1605,Minnesota,Apr,3,49,0.39,0.46,Midwest,Far
+1606,Mississippi,Apr,3,45,0.44,0.42,South,Far
+1607,Missouri,Apr,3,48,0.41,0.42,Midwest,Far
+1608,Montana,Apr,3,46.9,0.49,0.3,West,Far
+1609,Nebraska,Apr,3,51.6,0.47,0.36,Midwest,Far
+1610,Nevada,Apr,3,34.8,0.37,0.46,West,Far
+1611,New Hampshire,Apr,3,47,0.35,0.44,Northeast,Far
+1612,New Jersey,Apr,3,NA,0.3,0.51,Northeast,Far
+1613,New Mexico,Apr,3,45.9,0.37,0.48,West,Far
+1614,New York,Apr,3,48.8,0.28,0.53,Northeast,Far
+1615,North Carolina,Apr,3,51.7,0.41,0.43,South,Far
+1616,North Dakota,Apr,3,45.8,0.5,0.33,Midwest,Far
+1617,Ohio,Apr,3,49.1,0.42,0.4,Midwest,Far
+1618,Oklahoma,Apr,3,49.7,0.45,0.4,South,Far
+1619,Oregon,Apr,3,47.2,0.32,0.47,West,Far
+1620,Pennsylvania,Apr,3,54.3,0.39,0.46,Northeast,Far
+1621,Rhode Island,Apr,3,56.2,0.3,0.48,Northeast,Far
+1622,South Carolina,Apr,3,46.4,0.43,0.39,South,Far
+1623,South Dakota,Apr,3,55.4,0.53,0.37,Midwest,Far
+1624,Tennessee,Apr,3,46.1,0.48,0.36,South,Far
+1625,Texas,Apr,3,47.1,0.39,0.4,South,Far
+1626,Utah,Apr,3,46.1,0.54,0.3,West,Far
+1627,Vermont,Apr,3,53.9,0.29,0.57,Northeast,Far
+1628,Virginia,Apr,3,51.8,0.43,0.39,South,Far
+1629,Washington,Apr,3,53.9,0.33,0.44,West,Far
+1630,West Virginia,Apr,3,50.9,0.43,0.41,South,Far
+1631,Wisconsin,Apr,3,48.1,0.42,0.42,Midwest,Far
+1632,Wyoming,Apr,3,38.4,0.57,0.25,West,Far
+1633,Alabama,May,3,51.5,0.52,0.35,South,Far
+1634,Alaska,May,3,40.4,0.39,0.32,West,Far
+1635,Arizona,May,3,45.5,0.4,0.39,West,Far
+1636,Arkansas,May,3,47.7,0.46,0.38,South,Far
+1637,California,May,3,43.8,0.3,0.49,West,Far
+1638,Colorado,May,3,52.6,0.41,0.42,West,Far
+1639,Connecticut,May,3,53.8,0.32,0.5,Northeast,Far
+1640,Delaware,May,3,52.6,0.29,0.55,South,Far
+1641,District of Columbia,May,3,NA,NA,NA,South,Far
+1642,Florida,May,3,33.9,0.37,0.44,South,Far
+1643,Georgia,May,3,43.4,0.41,0.41,South,Far
+1644,Hawaii,May,3,47.8,0.28,0.51,West,Far
+1645,Idaho,May,3,42.1,0.49,0.32,West,Far
+1646,Illinois,May,3,41.3,0.33,0.48,Midwest,Far
+1647,Indiana,May,3,50.9,0.42,0.37,Midwest,Far
+1648,Iowa,May,3,54.5,0.41,0.4,Midwest,Far
+1649,Kansas,May,3,48.4,0.46,0.31,Midwest,Far
+1650,Kentucky,May,3,46.1,0.44,0.43,South,Far
+1651,Louisiana,May,3,43.5,0.41,0.43,South,Far
+1652,Maine,May,3,48.6,0.36,0.47,Northeast,Far
+1653,9yland,May,3,53.1,0.31,0.55,South,Far
+1654,Massachusetts,May,3,54.3,0.27,0.56,Northeast,Far
+1655,Michigan,May,3,48.4,0.34,0.47,Midwest,Far
+1656,Minnesota,May,3,49,0.39,0.46,Midwest,Far
+1657,Mississippi,May,3,45,0.44,0.42,South,Far
+1658,Missouri,May,3,48,0.41,0.42,Midwest,Far
+1659,Montana,May,3,47.6,0.49,0.3,West,Far
+1660,Nebraska,May,3,51.7,0.47,0.36,Midwest,Far
+1661,Nevada,May,3,34.8,0.37,0.46,West,Far
+1662,New Hampshire,May,3,47,0.35,0.44,Northeast,Far
+1663,New Jersey,May,3,NA,0.3,0.51,Northeast,Far
+1664,New Mexico,May,3,45.9,0.37,0.48,West,Far
+1665,New York,May,3,49.3,0.28,0.53,Northeast,Far
+1666,North Carolina,May,3,51.7,0.41,0.43,South,Far
+1667,North Dakota,May,3,45.8,0.5,0.33,Midwest,Far
+1668,Ohio,May,3,49.1,0.42,0.4,Midwest,Far
+1669,Oklahoma,May,3,49.7,0.45,0.4,South,Far
+1670,Oregon,May,3,47.2,0.32,0.47,West,Far
+1671,Pennsylvania,May,3,54.8,0.39,0.46,Northeast,Far
+1672,Rhode Island,May,3,56.2,0.3,0.48,Northeast,Far
+1673,South Carolina,May,3,47.7,0.43,0.39,South,Far
+1674,South Dakota,May,3,55.5,0.53,0.37,Midwest,Far
+1675,Tennessee,May,3,46.1,0.48,0.36,South,Far
+1676,Texas,May,3,47.3,0.39,0.4,South,Far
+1677,Utah,May,3,46.1,0.54,0.3,West,Far
+1678,Vermont,May,3,53.9,0.29,0.57,Northeast,Far
+1679,Virginia,May,3,51.8,0.43,0.39,South,Far
+1680,Washington,May,3,53.9,0.33,0.44,West,Far
+1681,West Virginia,May,3,50.9,0.43,0.41,South,Far
+1682,Wisconsin,May,3,48.4,0.42,0.42,Midwest,Far
+1683,Wyoming,May,3,42.1,0.57,0.25,West,Far
+1684,Alabama,Jul,4,0,0.52,0.35,South,Far
+1685,Alaska,Jul,4,0,0.39,0.32,West,Far
+1686,Arizona,Jul,4,0,0.4,0.39,West,Far
+1687,Arkansas,Jul,4,0,0.46,0.38,South,Far
+1688,California,Jul,4,0,0.3,0.49,West,Far
+1689,Colorado,Jul,4,0,0.41,0.42,West,Far
+1690,Connecticut,Jul,4,0,0.32,0.5,Northeast,Far
+1691,Delaware,Jul,4,0,0.29,0.55,South,Far
+1692,District of Columbia,Jul,4,NA,NA,NA,South,Far
+1693,Florida,Jul,4,0,0.37,0.44,South,Far
+1694,Georgia,Jul,4,0,0.41,0.41,South,Far
+1695,Hawaii,Jul,4,0,0.28,0.51,West,Far
+1696,Idaho,Jul,4,0,0.49,0.32,West,Far
+1697,Illinois,Jul,4,0,0.33,0.48,Midwest,Far
+1698,Indiana,Jul,4,0,0.42,0.37,Midwest,Far
+1699,Iowa,Jul,4,0,0.41,0.4,Midwest,Far
+1700,Kansas,Jul,4,0,0.46,0.31,Midwest,Far
+1701,Kentucky,Jul,4,0,0.44,0.43,South,Far
+1702,Louisiana,Jul,4,0,0.41,0.43,South,Far
+1703,Maine,Jul,4,0,0.36,0.47,Northeast,Far
+1704,9yland,Jul,4,0,0.31,0.55,South,Far
+1705,Massachusetts,Jul,4,0,0.27,0.56,Northeast,Far
+1706,Michigan,Jul,4,0,0.34,0.47,Midwest,Far
+1707,Minnesota,Jul,4,0,0.39,0.46,Midwest,Far
+1708,Mississippi,Jul,4,0,0.44,0.42,South,Far
+1709,Missouri,Jul,4,0,0.41,0.42,Midwest,Far
+1710,Montana,Jul,4,0,0.49,0.3,West,Far
+1711,Nebraska,Jul,4,0,0.47,0.36,Midwest,Far
+1712,Nevada,Jul,4,0,0.37,0.46,West,Far
+1713,New Hampshire,Jul,4,0,0.35,0.44,Northeast,Far
+1714,New Jersey,Jul,4,NA,0.3,0.51,Northeast,Far
+1715,New Mexico,Jul,4,0,0.37,0.48,West,Far
+1716,New York,Jul,4,0,0.28,0.53,Northeast,Far
+1717,North Carolina,Jul,4,0,0.41,0.43,South,Far
+1718,North Dakota,Jul,4,0,0.5,0.33,Midwest,Far
+1719,Ohio,Jul,4,0,0.42,0.4,Midwest,Far
+1720,Oklahoma,Jul,4,0,0.45,0.4,South,Far
+1721,Oregon,Jul,4,0,0.32,0.47,West,Far
+1722,Pennsylvania,Jul,4,0,0.39,0.46,Northeast,Far
+1723,Rhode Island,Jul,4,0,0.3,0.48,Northeast,Far
+1724,South Carolina,Jul,4,0,0.43,0.39,South,Far
+1725,South Dakota,Jul,4,0,0.53,0.37,Midwest,Far
+1726,Tennessee,Jul,4,0,0.48,0.36,South,Far
+1727,Texas,Jul,4,0,0.39,0.4,South,Far
+1728,Utah,Jul,4,0,0.54,0.3,West,Far
+1729,Vermont,Jul,4,0,0.29,0.57,Northeast,Far
+1730,Virginia,Jul,4,0,0.43,0.39,South,Far
+1731,Washington,Jul,4,0,0.33,0.44,West,Far
+1732,West Virginia,Jul,4,0,0.43,0.41,South,Far
+1733,Wisconsin,Jul,4,0,0.42,0.42,Midwest,Far
+1734,Wyoming,Jul,4,0,0.57,0.25,West,Far
+1735,Alabama,Aug,4,1.9,0.52,0.35,South,Far
+1736,Alaska,Aug,4,0,0.39,0.32,West,Far
+1737,Arizona,Aug,4,1.9,0.4,0.39,West,Far
+1738,Arkansas,Aug,4,0,0.46,0.38,South,Far
+1739,California,Aug,4,2,0.3,0.49,West,Far
+1740,Colorado,Aug,4,1.6,0.41,0.42,West,Far
+1741,Connecticut,Aug,4,1.2,0.32,0.5,Northeast,Far
+1742,Delaware,Aug,4,0,0.29,0.55,South,Far
+1743,District of Columbia,Aug,4,NA,NA,NA,South,Far
+1744,Florida,Aug,4,2.3,0.37,0.44,South,Far
+1745,Georgia,Aug,4,1.6,0.41,0.41,South,Far
+1746,Hawaii,Aug,4,3.1,0.28,0.51,West,Far
+1747,Idaho,Aug,4,0,0.49,0.32,West,Far
+1748,Illinois,Aug,4,2.4,0.33,0.48,Midwest,Far
+1749,Indiana,Aug,4,2,0.42,0.37,Midwest,Far
+1750,Iowa,Aug,4,1.6,0.41,0.4,Midwest,Far
+1751,Kansas,Aug,4,1.2,0.46,0.31,Midwest,Far
+1752,Kentucky,Aug,4,0,0.44,0.43,South,Far
+1753,Louisiana,Aug,4,2.1,0.41,0.43,South,Far
+1754,Maine,Aug,4,1.7,0.36,0.47,Northeast,Far
+1755,9yland,Aug,4,2.2,0.31,0.55,South,Far
+1756,Massachusetts,Aug,4,2.7,0.27,0.56,Northeast,Far
+1757,Michigan,Aug,4,2,0.34,0.47,Midwest,Far
+1758,Minnesota,Aug,4,1.3,0.39,0.46,Midwest,Far
+1759,Mississippi,Aug,4,0,0.44,0.42,South,Far
+1760,Missouri,Aug,4,1.6,0.41,0.42,Midwest,Far
+1761,Montana,Aug,4,2.1,0.49,0.3,West,Far
+1762,Nebraska,Aug,4,1.6,0.47,0.36,Midwest,Far
+1763,Nevada,Aug,4,0,0.37,0.46,West,Far
+1764,New Hampshire,Aug,4,0,0.35,0.44,Northeast,Far
+1765,New Jersey,Aug,4,NA,0.3,0.51,Northeast,Far
+1766,New Mexico,Aug,4,1.8,0.37,0.48,West,Far
+1767,New York,Aug,4,1.5,0.28,0.53,Northeast,Far
+1768,North Carolina,Aug,4,0,0.41,0.43,South,Far
+1769,North Dakota,Aug,4,0.9,0.5,0.33,Midwest,Far
+1770,Ohio,Aug,4,2.1,0.42,0.4,Midwest,Far
+1771,Oklahoma,Aug,4,0,0.45,0.4,South,Far
+1772,Oregon,Aug,4,1.2,0.32,0.47,West,Far
+1773,Pennsylvania,Aug,4,2.1,0.39,0.46,Northeast,Far
+1774,Rhode Island,Aug,4,0,0.3,0.48,Northeast,Far
+1775,South Carolina,Aug,4,2.2,0.43,0.39,South,Far
+1776,South Dakota,Aug,4,0,0.53,0.37,Midwest,Far
+1777,Tennessee,Aug,4,1.8,0.48,0.36,South,Far
+1778,Texas,Aug,4,2.2,0.39,0.4,South,Far
+1779,Utah,Aug,4,1.2,0.54,0.3,West,Far
+1780,Vermont,Aug,4,1.1,0.29,0.57,Northeast,Far
+1781,Virginia,Aug,4,2,0.43,0.39,South,Far
+1782,Washington,Aug,4,1.9,0.33,0.44,West,Far
+1783,West Virginia,Aug,4,1.4,0.43,0.41,South,Far
+1784,Wisconsin,Aug,4,0,0.42,0.42,Midwest,Far
+1785,Wyoming,Aug,4,1,0.57,0.25,West,Far
+1786,Alabama,Sep,4,14,0.52,0.35,South,Near
+1787,Alaska,Sep,4,11.7,0.39,0.32,West,Near
+1788,Arizona,Sep,4,15.4,0.4,0.39,West,Near
+1789,Arkansas,Sep,4,10,0.46,0.38,South,Near
+1790,California,Sep,4,15,0.3,0.49,West,Near
+1791,Colorado,Sep,4,16,0.41,0.42,West,Near
+1792,Connecticut,Sep,4,12.3,0.32,0.5,Northeast,Near
+1793,Delaware,Sep,4,16.6,0.29,0.55,South,Near
+1794,District of Columbia,Sep,4,NA,NA,NA,South,Near
+1795,Florida,Sep,4,13.7,0.37,0.44,South,Near
+1796,Georgia,Sep,4,14.8,0.41,0.41,South,Near
+1797,Hawaii,Sep,4,17.7,0.28,0.51,West,Near
+1798,Idaho,Sep,4,11.7,0.49,0.32,West,Near
+1799,Illinois,Sep,4,13.3,0.33,0.48,Midwest,Near
+1800,Indiana,Sep,4,12.7,0.42,0.37,Midwest,Near
+1801,Iowa,Sep,4,14.4,0.41,0.4,Midwest,Near
+1802,Kansas,Sep,4,11.9,0.46,0.31,Midwest,Near
+1803,Kentucky,Sep,4,13.9,0.44,0.43,South,Near
+1804,Louisiana,Sep,4,13.6,0.41,0.43,South,Near
+1805,Maine,Sep,4,12.5,0.36,0.47,Northeast,Near
+1806,9yland,Sep,4,15.1,0.31,0.55,South,Near
+1807,Massachusetts,Sep,4,15.2,0.27,0.56,Northeast,Near
+1808,Michigan,Sep,4,13.5,0.34,0.47,Midwest,Near
+1809,Minnesota,Sep,4,12.6,0.39,0.46,Midwest,Near
+1810,Mississippi,Sep,4,10.4,0.44,0.42,South,Near
+1811,Missouri,Sep,4,13.4,0.41,0.42,Midwest,Near
+1812,Montana,Sep,4,11.6,0.49,0.3,West,Near
+1813,Nebraska,Sep,4,12.4,0.47,0.36,Midwest,Near
+1814,Nevada,Sep,4,14.2,0.37,0.46,West,Near
+1815,New Hampshire,Sep,4,11.7,0.35,0.44,Northeast,Near
+1816,New Jersey,Sep,4,NA,0.3,0.51,Northeast,Near
+1817,New Mexico,Sep,4,14.6,0.37,0.48,West,Near
+1818,New York,Sep,4,11.8,0.28,0.53,Northeast,Near
+1819,North Carolina,Sep,4,14.6,0.41,0.43,South,Near
+1820,North Dakota,Sep,4,9.2,0.5,0.33,Midwest,Near
+1821,Ohio,Sep,4,15.3,0.42,0.4,Midwest,Near
+1822,Oklahoma,Sep,4,11.7,0.45,0.4,South,Near
+1823,Oregon,Sep,4,12.2,0.32,0.47,West,Near
+1824,Pennsylvania,Sep,4,16.1,0.39,0.46,Northeast,Near
+1825,Rhode Island,Sep,4,11,0.3,0.48,Northeast,Near
+1826,South Carolina,Sep,4,14.1,0.43,0.39,South,Near
+1827,South Dakota,Sep,4,8.7,0.53,0.37,Midwest,Near
+1828,Tennessee,Sep,4,11.8,0.48,0.36,South,Near
+1829,Texas,Sep,4,13.7,0.39,0.4,South,Near
+1830,Utah,Sep,4,13.6,0.54,0.3,West,Near
+1831,Vermont,Sep,4,9.4,0.29,0.57,Northeast,Near
+1832,Virginia,Sep,4,14.7,0.43,0.39,South,Near
+1833,Washington,Sep,4,15.7,0.33,0.44,West,Near
+1834,West Virginia,Sep,4,10.8,0.43,0.41,South,Near
+1835,Wisconsin,Sep,4,9.3,0.42,0.42,Midwest,Near
+1836,Wyoming,Sep,4,9.7,0.57,0.25,West,Near
+1837,Alabama,Oct,4,45.4,0.52,0.35,South,Near
+1838,Alaska,Oct,4,36.1,0.39,0.32,West,Near
+1839,Arizona,Oct,4,42.2,0.4,0.39,West,Near
+1840,Arkansas,Oct,4,39.2,0.46,0.38,South,Near
+1841,California,Oct,4,40.3,0.3,0.49,West,Near
+1842,Colorado,Oct,4,48.6,0.41,0.42,West,Near
+1843,Connecticut,Oct,4,47,0.32,0.5,Northeast,Near
+1844,Delaware,Oct,4,45.9,0.29,0.55,South,Near
+1845,District of Columbia,Oct,4,NA,NA,NA,South,Near
+1846,Florida,Oct,4,35.4,0.37,0.44,South,Near
+1847,Georgia,Oct,4,34.7,0.41,0.41,South,Near
+1848,Hawaii,Oct,4,35.4,0.28,0.51,West,Near
+1849,Idaho,Oct,4,46.2,0.49,0.32,West,Near
+1850,Illinois,Oct,4,41.7,0.33,0.48,Midwest,Near
+1851,Indiana,Oct,4,41.7,0.42,0.37,Midwest,Near
+1852,Iowa,Oct,4,48.2,0.41,0.4,Midwest,Near
+1853,Kansas,Oct,4,46.4,0.46,0.31,Midwest,Near
+1854,Kentucky,Oct,4,41.3,0.44,0.43,South,Near
+1855,Louisiana,Oct,4,36.3,0.41,0.43,South,Near
+1856,Maine,Oct,4,43.4,0.36,0.47,Northeast,Near
+1857,9yland,Oct,4,45.9,0.31,0.55,South,Near
+1858,Massachusetts,Oct,4,45.4,0.27,0.56,Northeast,Near
+1859,Michigan,Oct,4,42.9,0.34,0.47,Midwest,Near
+1860,Minnesota,Oct,4,44.1,0.39,0.46,Midwest,Near
+1861,Mississippi,Oct,4,38.8,0.44,0.42,South,Near
+1862,Missouri,Oct,4,47.9,0.41,0.42,Midwest,Near
+1863,Montana,Oct,4,42.2,0.49,0.3,West,Near
+1864,Nebraska,Oct,4,46.1,0.47,0.36,Midwest,Near
+1865,Nevada,Oct,4,39,0.37,0.46,West,Near
+1866,New Hampshire,Oct,4,42.3,0.35,0.44,Northeast,Near
+1867,New Jersey,Oct,4,NA,0.3,0.51,Northeast,Near
+1868,New Mexico,Oct,4,39.7,0.37,0.48,West,Near
+1869,New York,Oct,4,37.7,0.28,0.53,Northeast,Near
+1870,North Carolina,Oct,4,47.7,0.41,0.43,South,Near
+1871,North Dakota,Oct,4,46.8,0.5,0.33,Midwest,Near
+1872,Ohio,Oct,4,44,0.42,0.4,Midwest,Near
+1873,Oklahoma,Oct,4,48.8,0.45,0.4,South,Near
+1874,Oregon,Oct,4,42.4,0.32,0.47,West,Near
+1875,Pennsylvania,Oct,4,48.8,0.39,0.46,Northeast,Near
+1876,Rhode Island,Oct,4,41.5,0.3,0.48,Northeast,Near
+1877,South Carolina,Oct,4,43.9,0.43,0.39,South,Near
+1878,South Dakota,Oct,4,42,0.53,0.37,Midwest,Near
+1879,Tennessee,Oct,4,39.1,0.48,0.36,South,Near
+1880,Texas,Oct,4,40.4,0.39,0.4,South,Near
+1881,Utah,Oct,4,42.2,0.54,0.3,West,Near
+1882,Vermont,Oct,4,41.5,0.29,0.57,Northeast,Near
+1883,Virginia,Oct,4,46.4,0.43,0.39,South,Near
+1884,Washington,Oct,4,45.4,0.33,0.44,West,Near
+1885,West Virginia,Oct,4,44.5,0.43,0.41,South,Near
+1886,Wisconsin,Oct,4,39.8,0.42,0.42,Midwest,Near
+1887,Wyoming,Oct,4,40.6,0.57,0.25,West,Near
+1888,Alabama,Nov,4,58.7,0.52,0.35,South,Near
+1889,Alaska,Nov,4,48.8,0.39,0.32,West,Near
+1890,Arizona,Nov,4,52.5,0.4,0.39,West,Near
+1891,Arkansas,Nov,4,52.7,0.46,0.38,South,Near
+1892,California,Nov,4,51,0.3,0.49,West,Near
+1893,Colorado,Nov,4,58.4,0.41,0.42,West,Near
+1894,Connecticut,Nov,4,62.3,0.32,0.5,Northeast,Near
+1895,Delaware,Nov,4,57.2,0.29,0.55,South,Near
+1896,District of Columbia,Nov,4,NA,NA,NA,South,Near
+1897,Florida,Nov,4,46.2,0.37,0.44,South,Near
+1898,Georgia,Nov,4,43.6,0.41,0.41,South,Near
+1899,Hawaii,Nov,4,46.4,0.28,0.51,West,Near
+1900,Idaho,Nov,4,57.1,0.49,0.32,West,Near
+1901,Illinois,Nov,4,53.7,0.33,0.48,Midwest,Near
+1902,Indiana,Nov,4,55.3,0.42,0.37,Midwest,Near
+1903,Iowa,Nov,4,63.4,0.41,0.4,Midwest,Near
+1904,Kansas,Nov,4,59.5,0.46,0.31,Midwest,Near
+1905,Kentucky,Nov,4,54.4,0.44,0.43,South,Near
+1906,Louisiana,Nov,4,48.7,0.41,0.43,South,Near
+1907,Maine,Nov,4,56.8,0.36,0.47,Northeast,Near
+1908,9yland,Nov,4,59.8,0.31,0.55,South,Near
+1909,Massachusetts,Nov,4,59.7,0.27,0.56,Northeast,Near
+1910,Michigan,Nov,4,54.6,0.34,0.47,Midwest,Near
+1911,Minnesota,Nov,4,57.6,0.39,0.46,Midwest,Near
+1912,Mississippi,Nov,4,53.8,0.44,0.42,South,Near
+1913,Missouri,Nov,4,62.3,0.41,0.42,Midwest,Near
+1914,Montana,Nov,4,54.9,0.49,0.3,West,Near
+1915,Nebraska,Nov,4,60.3,0.47,0.36,Midwest,Near
+1916,Nevada,Nov,4,51.6,0.37,0.46,West,Near
+1917,New Hampshire,Nov,4,59,0.35,0.44,Northeast,Near
+1918,New Jersey,Nov,4,NA,0.3,0.51,Northeast,Near
+1919,New Mexico,Nov,4,51.8,0.37,0.48,West,Near
+1920,New York,Nov,4,49.5,0.28,0.53,Northeast,Near
+1921,North Carolina,Nov,4,60.9,0.41,0.43,South,Near
+1922,North Dakota,Nov,4,59.2,0.5,0.33,Midwest,Near
+1923,Ohio,Nov,4,56.5,0.42,0.4,Midwest,Near
+1924,Oklahoma,Nov,4,63.9,0.45,0.4,South,Near
+1925,Oregon,Nov,4,55.1,0.32,0.47,West,Near
+1926,Pennsylvania,Nov,4,62.4,0.39,0.46,Northeast,Near
+1927,Rhode Island,Nov,4,57.6,0.3,0.48,Northeast,Near
+1928,South Carolina,Nov,4,55.7,0.43,0.39,South,Near
+1929,South Dakota,Nov,4,55.9,0.53,0.37,Midwest,Near
+1930,Tennessee,Nov,4,54.3,0.48,0.36,South,Near
+1931,Texas,Nov,4,52.2,0.39,0.4,South,Near
+1932,Utah,Nov,4,52.9,0.54,0.3,West,Near
+1933,Vermont,Nov,4,59.5,0.29,0.57,Northeast,Near
+1934,Virginia,Nov,4,58.9,0.43,0.39,South,Near
+1935,Washington,Nov,4,58.5,0.33,0.44,West,Near
+1936,West Virginia,Nov,4,56.2,0.43,0.41,South,Near
+1937,Wisconsin,Nov,4,56.1,0.42,0.42,Midwest,Near
+1938,Wyoming,Nov,4,52.3,0.57,0.25,West,Near
+1939,Alabama,Dec,4,62.4,0.52,0.35,South,Flu
+1940,Alaska,Dec,4,51.6,0.39,0.32,West,Flu
+1941,Arizona,Dec,4,55.9,0.4,0.39,West,Flu
+1942,Arkansas,Dec,4,56,0.46,0.38,South,Flu
+1943,California,Dec,4,57,0.3,0.49,West,Flu
+1944,Colorado,Dec,4,62,0.41,0.42,West,Flu
+1945,Connecticut,Dec,4,67.8,0.32,0.5,Northeast,Flu
+1946,Delaware,Dec,4,64.8,0.29,0.55,South,Flu
+1947,District of Columbia,Dec,4,NA,NA,NA,South,Flu
+1948,Florida,Dec,4,50,0.37,0.44,South,Flu
+1949,Georgia,Dec,4,45.4,0.41,0.41,South,Flu
+1950,Hawaii,Dec,4,51.1,0.28,0.51,West,Flu
+1951,Idaho,Dec,4,59.9,0.49,0.32,West,Flu
+1952,Illinois,Dec,4,59.6,0.33,0.48,Midwest,Flu
+1953,Indiana,Dec,4,60.1,0.42,0.37,Midwest,Flu
+1954,Iowa,Dec,4,67.6,0.41,0.4,Midwest,Flu
+1955,Kansas,Dec,4,63.5,0.46,0.31,Midwest,Flu
+1956,Kentucky,Dec,4,58.8,0.44,0.43,South,Flu
+1957,Louisiana,Dec,4,52.4,0.41,0.43,South,Flu
+1958,Maine,Dec,4,60.5,0.36,0.47,Northeast,Flu
+1959,9yland,Dec,4,63.6,0.31,0.55,South,Flu
+1960,Massachusetts,Dec,4,63.4,0.27,0.56,Northeast,Flu
+1961,Michigan,Dec,4,58.1,0.34,0.47,Midwest,Flu
+1962,Minnesota,Dec,4,60.6,0.39,0.46,Midwest,Flu
+1963,Mississippi,Dec,4,58.4,0.44,0.42,South,Flu
+1964,Missouri,Dec,4,66,0.41,0.42,Midwest,Flu
+1965,Montana,Dec,4,57.4,0.49,0.3,West,Flu
+1966,Nebraska,Dec,4,63.4,0.47,0.36,Midwest,Flu
+1967,Nevada,Dec,4,61.6,0.37,0.46,West,Flu
+1968,New Hampshire,Dec,4,63.1,0.35,0.44,Northeast,Flu
+1969,New Jersey,Dec,4,NA,0.3,0.51,Northeast,Flu
+1970,New Mexico,Dec,4,56.6,0.37,0.48,West,Flu
+1971,New York,Dec,4,54.7,0.28,0.53,Northeast,Flu
+1972,North Carolina,Dec,4,65,0.41,0.43,South,Flu
+1973,North Dakota,Dec,4,62.1,0.5,0.33,Midwest,Flu
+1974,Ohio,Dec,4,61.8,0.42,0.4,Midwest,Flu
+1975,Oklahoma,Dec,4,66.6,0.45,0.4,South,Flu
+1976,Oregon,Dec,4,59.6,0.32,0.47,West,Flu
+1977,Pennsylvania,Dec,4,66.3,0.39,0.46,Northeast,Flu
+1978,Rhode Island,Dec,4,64.5,0.3,0.48,Northeast,Flu
+1979,South Carolina,Dec,4,58.6,0.43,0.39,South,Flu
+1980,South Dakota,Dec,4,60.6,0.53,0.37,Midwest,Flu
+1981,Tennessee,Dec,4,60.4,0.48,0.36,South,Flu
+1982,Texas,Dec,4,57.1,0.39,0.4,South,Flu
+1983,Utah,Dec,4,56.6,0.54,0.3,West,Flu
+1984,Vermont,Dec,4,63.2,0.29,0.57,Northeast,Flu
+1985,Virginia,Dec,4,63.6,0.43,0.39,South,Flu
+1986,Washington,Dec,4,62.8,0.33,0.44,West,Flu
+1987,West Virginia,Dec,4,61.1,0.43,0.41,South,Flu
+1988,Wisconsin,Dec,4,60.5,0.42,0.42,Midwest,Flu
+1989,Wyoming,Dec,4,56.4,0.57,0.25,West,Flu
+1990,Alabama,Jan,4,66.5,0.52,0.35,South,Flu
+1991,Alaska,Jan,4,55.2,0.39,0.32,West,Flu
+1992,Arizona,Jan,4,60.4,0.4,0.39,West,Flu
+1993,Arkansas,Jan,4,59.9,0.46,0.38,South,Flu
+1994,California,Jan,4,61.7,0.3,0.49,West,Flu
+1995,Colorado,Jan,4,64.8,0.41,0.42,West,Flu
+1996,Connecticut,Jan,4,70.7,0.32,0.5,Northeast,Flu
+1997,Delaware,Jan,4,66.6,0.29,0.55,South,Flu
+1998,District of Columbia,Jan,4,NA,NA,NA,South,Flu
+1999,Florida,Jan,4,54.5,0.37,0.44,South,Flu
+2000,Georgia,Jan,4,50.2,0.41,0.41,South,Flu
+2001,Hawaii,Jan,4,56.4,0.28,0.51,West,Flu
+2002,Idaho,Jan,4,61.8,0.49,0.32,West,Flu
+2003,Illinois,Jan,4,62.9,0.33,0.48,Midwest,Flu
+2004,Indiana,Jan,4,63.9,0.42,0.37,Midwest,Flu
+2005,Iowa,Jan,4,69.3,0.41,0.4,Midwest,Flu
+2006,Kansas,Jan,4,65.8,0.46,0.31,Midwest,Flu
+2007,Kentucky,Jan,4,63,0.44,0.43,South,Flu
+2008,Louisiana,Jan,4,55.8,0.41,0.43,South,Flu
+2009,Maine,Jan,4,63.4,0.36,0.47,Northeast,Flu
+2010,9yland,Jan,4,67.5,0.31,0.55,South,Flu
+2011,Massachusetts,Jan,4,65.7,0.27,0.56,Northeast,Flu
+2012,Michigan,Jan,4,60.5,0.34,0.47,Midwest,Flu
+2013,Minnesota,Jan,4,62.9,0.39,0.46,Midwest,Flu
+2014,Mississippi,Jan,4,64.1,0.44,0.42,South,Flu
+2015,Missouri,Jan,4,68.4,0.41,0.42,Midwest,Flu
+2016,Montana,Jan,4,61.4,0.49,0.3,West,Flu
+2017,Nebraska,Jan,4,65.9,0.47,0.36,Midwest,Flu
+2018,Nevada,Jan,4,63.7,0.37,0.46,West,Flu
+2019,New Hampshire,Jan,4,67,0.35,0.44,Northeast,Flu
+2020,New Jersey,Jan,4,NA,0.3,0.51,Northeast,Flu
+2021,New Mexico,Jan,4,60.3,0.37,0.48,West,Flu
+2022,New York,Jan,4,58.8,0.28,0.53,Northeast,Flu
+2023,North Carolina,Jan,4,69.1,0.41,0.43,South,Flu
+2024,North Dakota,Jan,4,64.8,0.5,0.33,Midwest,Flu
+2025,Ohio,Jan,4,64.6,0.42,0.4,Midwest,Flu
+2026,Oklahoma,Jan,4,69.8,0.45,0.4,South,Flu
+2027,Oregon,Jan,4,63,0.32,0.47,West,Flu
+2028,Pennsylvania,Jan,4,68.5,0.39,0.46,Northeast,Flu
+2029,Rhode Island,Jan,4,69,0.3,0.48,Northeast,Flu
+2030,South Carolina,Jan,4,63,0.43,0.39,South,Flu
+2031,South Dakota,Jan,4,64.5,0.53,0.37,Midwest,Flu
+2032,Tennessee,Jan,4,65,0.48,0.36,South,Flu
+2033,Texas,Jan,4,61.8,0.39,0.4,South,Flu
+2034,Utah,Jan,4,59.2,0.54,0.3,West,Flu
+2035,Vermont,Jan,4,64.9,0.29,0.57,Northeast,Flu
+2036,Virginia,Jan,4,67.4,0.43,0.39,South,Flu
+2037,Washington,Jan,4,66.3,0.33,0.44,West,Flu
+2038,West Virginia,Jan,4,64.3,0.43,0.41,South,Flu
+2039,Wisconsin,Jan,4,63.5,0.42,0.42,Midwest,Flu
+2040,Wyoming,Jan,4,58.8,0.57,0.25,West,Flu
+2041,Alabama,Feb,4,68.8,0.52,0.35,South,Flu
+2042,Alaska,Feb,4,56.7,0.39,0.32,West,Flu
+2043,Arizona,Feb,4,61.9,0.4,0.39,West,Flu
+2044,Arkansas,Feb,4,61.3,0.46,0.38,South,Flu
+2045,California,Feb,4,64.3,0.3,0.49,West,Flu
+2046,Colorado,Feb,4,67.5,0.41,0.42,West,Flu
+2047,Connecticut,Feb,4,72.7,0.32,0.5,Northeast,Flu
+2048,Delaware,Feb,4,67.6,0.29,0.55,South,Flu
+2049,District of Columbia,Feb,4,NA,NA,NA,South,Flu
+2050,Florida,Feb,4,57.7,0.37,0.44,South,Flu
+2051,Georgia,Feb,4,52.9,0.41,0.41,South,Flu
+2052,Hawaii,Feb,4,60.4,0.28,0.51,West,Flu
+2053,Idaho,Feb,4,64.5,0.49,0.32,West,Flu
+2054,Illinois,Feb,4,64.1,0.33,0.48,Midwest,Flu
+2055,Indiana,Feb,4,64.5,0.42,0.37,Midwest,Flu
+2056,Iowa,Feb,4,70.4,0.41,0.4,Midwest,Flu
+2057,Kansas,Feb,4,67.1,0.46,0.31,Midwest,Flu
+2058,Kentucky,Feb,4,65.1,0.44,0.43,South,Flu
+2059,Louisiana,Feb,4,59.8,0.41,0.43,South,Flu
+2060,Maine,Feb,4,65.2,0.36,0.47,Northeast,Flu
+2061,9yland,Feb,4,69.4,0.31,0.55,South,Flu
+2062,Massachusetts,Feb,4,68.1,0.27,0.56,Northeast,Flu
+2063,Michigan,Feb,4,63,0.34,0.47,Midwest,Flu
+2064,Minnesota,Feb,4,65.1,0.39,0.46,Midwest,Flu
+2065,Mississippi,Feb,4,68.2,0.44,0.42,South,Flu
+2066,Missouri,Feb,4,70.3,0.41,0.42,Midwest,Flu
+2067,Montana,Feb,4,63,0.49,0.3,West,Flu
+2068,Nebraska,Feb,4,67.5,0.47,0.36,Midwest,Flu
+2069,Nevada,Feb,4,63.9,0.37,0.46,West,Flu
+2070,New Hampshire,Feb,4,68,0.35,0.44,Northeast,Flu
+2071,New Jersey,Feb,4,NA,0.3,0.51,Northeast,Flu
+2072,New Mexico,Feb,4,64.5,0.37,0.48,West,Flu
+2073,New York,Feb,4,62.7,0.28,0.53,Northeast,Flu
+2074,North Carolina,Feb,4,71,0.41,0.43,South,Flu
+2075,North Dakota,Feb,4,65.7,0.5,0.33,Midwest,Flu
+2076,Ohio,Feb,4,66.7,0.42,0.4,Midwest,Flu
+2077,Oklahoma,Feb,4,72.3,0.45,0.4,South,Flu
+2078,Oregon,Feb,4,65.4,0.32,0.47,West,Flu
+2079,Pennsylvania,Feb,4,70.6,0.39,0.46,Northeast,Flu
+2080,Rhode Island,Feb,4,71.7,0.3,0.48,Northeast,Flu
+2081,South Carolina,Feb,4,66.2,0.43,0.39,South,Flu
+2082,South Dakota,Feb,4,65.3,0.53,0.37,Midwest,Flu
+2083,Tennessee,Feb,4,66.2,0.48,0.36,South,Flu
+2084,Texas,Feb,4,64.7,0.39,0.4,South,Flu
+2085,Utah,Feb,4,61.3,0.54,0.3,West,Flu
+2086,Vermont,Feb,4,67.3,0.29,0.57,Northeast,Flu
+2087,Virginia,Feb,4,70.5,0.43,0.39,South,Flu
+2088,Washington,Feb,4,68.3,0.33,0.44,West,Flu
+2089,West Virginia,Feb,4,66.7,0.43,0.41,South,Flu
+2090,Wisconsin,Feb,4,65.3,0.42,0.42,Midwest,Flu
+2091,Wyoming,Feb,4,60.2,0.57,0.25,West,Flu
+2092,Alabama,Mar,4,70.1,0.52,0.35,South,Far
+2093,Alaska,Mar,4,58.7,0.39,0.32,West,Far
+2094,Arizona,Mar,4,64,0.4,0.39,West,Far
+2095,Arkansas,Mar,4,62.5,0.46,0.38,South,Far
+2096,California,Mar,4,66.3,0.3,0.49,West,Far
+2097,Colorado,Mar,4,69.1,0.41,0.42,West,Far
+2098,Connecticut,Mar,4,73.8,0.32,0.5,Northeast,Far
+2099,Delaware,Mar,4,68.4,0.29,0.55,South,Far
+2100,District of Columbia,Mar,4,NA,NA,NA,South,Far
+2101,Florida,Mar,4,59.8,0.37,0.44,South,Far
+2102,Georgia,Mar,4,57,0.41,0.41,South,Far
+2103,Hawaii,Mar,4,62.2,0.28,0.51,West,Far
+2104,Idaho,Mar,4,65.9,0.49,0.32,West,Far
+2105,Illinois,Mar,4,66.9,0.33,0.48,Midwest,Far
+2106,Indiana,Mar,4,66.1,0.42,0.37,Midwest,Far
+2107,Iowa,Mar,4,71.8,0.41,0.4,Midwest,Far
+2108,Kansas,Mar,4,67.4,0.46,0.31,Midwest,Far
+2109,Kentucky,Mar,4,65.6,0.44,0.43,South,Far
+2110,Louisiana,Mar,4,61.8,0.41,0.43,South,Far
+2111,Maine,Mar,4,66.3,0.36,0.47,Northeast,Far
+2112,9yland,Mar,4,71.2,0.31,0.55,South,Far
+2113,Massachusetts,Mar,4,70.4,0.27,0.56,Northeast,Far
+2114,Michigan,Mar,4,63.5,0.34,0.47,Midwest,Far
+2115,Minnesota,Mar,4,66.2,0.39,0.46,Midwest,Far
+2116,Mississippi,Mar,4,68.3,0.44,0.42,South,Far
+2117,Missouri,Mar,4,71.2,0.41,0.42,Midwest,Far
+2118,Montana,Mar,4,63.8,0.49,0.3,West,Far
+2119,Nebraska,Mar,4,69.2,0.47,0.36,Midwest,Far
+2120,Nevada,Mar,4,64.6,0.37,0.46,West,Far
+2121,New Hampshire,Mar,4,68.7,0.35,0.44,Northeast,Far
+2122,New Jersey,Mar,4,NA,0.3,0.51,Northeast,Far
+2123,New Mexico,Mar,4,66.8,0.37,0.48,West,Far
+2124,New York,Mar,4,63.8,0.28,0.53,Northeast,Far
+2125,North Carolina,Mar,4,72.6,0.41,0.43,South,Far
+2126,North Dakota,Mar,4,67,0.5,0.33,Midwest,Far
+2127,Ohio,Mar,4,68.5,0.42,0.4,Midwest,Far
+2128,Oklahoma,Mar,4,73.6,0.45,0.4,South,Far
+2129,Oregon,Mar,4,66.6,0.32,0.47,West,Far
+2130,Pennsylvania,Mar,4,72.2,0.39,0.46,Northeast,Far
+2131,Rhode Island,Mar,4,72.6,0.3,0.48,Northeast,Far
+2132,South Carolina,Mar,4,67.9,0.43,0.39,South,Far
+2133,South Dakota,Mar,4,65.9,0.53,0.37,Midwest,Far
+2134,Tennessee,Mar,4,66.7,0.48,0.36,South,Far
+2135,Texas,Mar,4,66.2,0.39,0.4,South,Far
+2136,Utah,Mar,4,63.3,0.54,0.3,West,Far
+2137,Vermont,Mar,4,68,0.29,0.57,Northeast,Far
+2138,Virginia,Mar,4,71,0.43,0.39,South,Far
+2139,Washington,Mar,4,70,0.33,0.44,West,Far
+2140,West Virginia,Mar,4,67.8,0.43,0.41,South,Far
+2141,Wisconsin,Mar,4,65.8,0.42,0.42,Midwest,Far
+2142,Wyoming,Mar,4,62.4,0.57,0.25,West,Far
+2143,Alabama,Apr,4,70.9,0.52,0.35,South,Far
+2144,Alaska,Apr,4,61.2,0.39,0.32,West,Far
+2145,Arizona,Apr,4,64.3,0.4,0.39,West,Far
+2146,Arkansas,Apr,4,62.8,0.46,0.38,South,Far
+2147,California,Apr,4,68.2,0.3,0.49,West,Far
+2148,Colorado,Apr,4,70.3,0.41,0.42,West,Far
+2149,Connecticut,Apr,4,75.4,0.32,0.5,Northeast,Far
+2150,Delaware,Apr,4,69,0.29,0.55,South,Far
+2151,District of Columbia,Apr,4,NA,NA,NA,South,Far
+2152,Florida,Apr,4,60.7,0.37,0.44,South,Far
+2153,Georgia,Apr,4,58.4,0.41,0.41,South,Far
+2154,Hawaii,Apr,4,64.5,0.28,0.51,West,Far
+2155,Idaho,Apr,4,66.4,0.49,0.32,West,Far
+2156,Illinois,Apr,4,67.4,0.33,0.48,Midwest,Far
+2157,Indiana,Apr,4,67.4,0.42,0.37,Midwest,Far
+2158,Iowa,Apr,4,72.2,0.41,0.4,Midwest,Far
+2159,Kansas,Apr,4,68,0.46,0.31,Midwest,Far
+2160,Kentucky,Apr,4,66,0.44,0.43,South,Far
+2161,Louisiana,Apr,4,64.1,0.41,0.43,South,Far
+2162,Maine,Apr,4,66.7,0.36,0.47,Northeast,Far
+2163,9yland,Apr,4,72.3,0.31,0.55,South,Far
+2164,Massachusetts,Apr,4,71.2,0.27,0.56,Northeast,Far
+2165,Michigan,Apr,4,64.4,0.34,0.47,Midwest,Far
+2166,Minnesota,Apr,4,66.9,0.39,0.46,Midwest,Far
+2167,Mississippi,Apr,4,68.3,0.44,0.42,South,Far
+2168,Missouri,Apr,4,72.9,0.41,0.42,Midwest,Far
+2169,Montana,Apr,4,64.7,0.49,0.3,West,Far
+2170,Nebraska,Apr,4,70.1,0.47,0.36,Midwest,Far
+2171,Nevada,Apr,4,65.3,0.37,0.46,West,Far
+2172,New Hampshire,Apr,4,70.6,0.35,0.44,Northeast,Far
+2173,New Jersey,Apr,4,NA,0.3,0.51,Northeast,Far
+2174,New Mexico,Apr,4,67.8,0.37,0.48,West,Far
+2175,New York,Apr,4,65.5,0.28,0.53,Northeast,Far
+2176,North Carolina,Apr,4,72.9,0.41,0.43,South,Far
+2177,North Dakota,Apr,4,67.4,0.5,0.33,Midwest,Far
+2178,Ohio,Apr,4,69.5,0.42,0.4,Midwest,Far
+2179,Oklahoma,Apr,4,74.1,0.45,0.4,South,Far
+2180,Oregon,Apr,4,68.1,0.32,0.47,West,Far
+2181,Pennsylvania,Apr,4,73.5,0.39,0.46,Northeast,Far
+2182,Rhode Island,Apr,4,73.4,0.3,0.48,Northeast,Far
+2183,South Carolina,Apr,4,68.9,0.43,0.39,South,Far
+2184,South Dakota,Apr,4,66.9,0.53,0.37,Midwest,Far
+2185,Tennessee,Apr,4,66.9,0.48,0.36,South,Far
+2186,Texas,Apr,4,67.4,0.39,0.4,South,Far
+2187,Utah,Apr,4,63.8,0.54,0.3,West,Far
+2188,Vermont,Apr,4,69.4,0.29,0.57,Northeast,Far
+2189,Virginia,Apr,4,71.4,0.43,0.39,South,Far
+2190,Washington,Apr,4,70.8,0.33,0.44,West,Far
+2191,West Virginia,Apr,4,68.2,0.43,0.41,South,Far
+2192,Wisconsin,Apr,4,66,0.42,0.42,Midwest,Far
+2193,Wyoming,Apr,4,63.1,0.57,0.25,West,Far
+2194,Alabama,May,4,71.5,0.52,0.35,South,Far
+2195,Alaska,May,4,61.2,0.39,0.32,West,Far
+2196,Arizona,May,4,64.4,0.4,0.39,West,Far
+2197,Arkansas,May,4,62.8,0.46,0.38,South,Far
+2198,California,May,4,69,0.3,0.49,West,Far
+2199,Colorado,May,4,70.4,0.41,0.42,West,Far
+2200,Connecticut,May,4,75.4,0.32,0.5,Northeast,Far
+2201,Delaware,May,4,70.1,0.29,0.55,South,Far
+2202,District of Columbia,May,4,NA,NA,NA,South,Far
+2203,Florida,May,4,61.1,0.37,0.44,South,Far
+2204,Georgia,May,4,58.4,0.41,0.41,South,Far
+2205,Hawaii,May,4,66.8,0.28,0.51,West,Far
+2206,Idaho,May,4,66.4,0.49,0.32,West,Far
+2207,Illinois,May,4,67.4,0.33,0.48,Midwest,Far
+2208,Indiana,May,4,67.6,0.42,0.37,Midwest,Far
+2209,Iowa,May,4,72.4,0.41,0.4,Midwest,Far
+2210,Kansas,May,4,68,0.46,0.31,Midwest,Far
+2211,Kentucky,May,4,66,0.44,0.43,South,Far
+2212,Louisiana,May,4,64.3,0.41,0.43,South,Far
+2213,Maine,May,4,67.5,0.36,0.47,Northeast,Far
+2214,9yland,May,4,72.7,0.31,0.55,South,Far
+2215,Massachusetts,May,4,72.1,0.27,0.56,Northeast,Far
+2216,Michigan,May,4,65.6,0.34,0.47,Midwest,Far
+2217,Minnesota,May,4,68,0.39,0.46,Midwest,Far
+2218,Mississippi,May,4,68.3,0.44,0.42,South,Far
+2219,Missouri,May,4,72.9,0.41,0.42,Midwest,Far
+2220,Montana,May,4,67.8,0.49,0.3,West,Far
+2221,Nebraska,May,4,70.5,0.47,0.36,Midwest,Far
+2222,Nevada,May,4,65.3,0.37,0.46,West,Far
+2223,New Hampshire,May,4,71.5,0.35,0.44,Northeast,Far
+2224,New Jersey,May,4,NA,0.3,0.51,Northeast,Far
+2225,New Mexico,May,4,68.7,0.37,0.48,West,Far
+2226,New York,May,4,66.3,0.28,0.53,Northeast,Far
+2227,North Carolina,May,4,72.9,0.41,0.43,South,Far
+2228,North Dakota,May,4,68.6,0.5,0.33,Midwest,Far
+2229,Ohio,May,4,70,0.42,0.4,Midwest,Far
+2230,Oklahoma,May,4,75.5,0.45,0.4,South,Far
+2231,Oregon,May,4,68.1,0.32,0.47,West,Far
+2232,Pennsylvania,May,4,73.8,0.39,0.46,Northeast,Far
+2233,Rhode Island,May,4,74.1,0.3,0.48,Northeast,Far
+2234,South Carolina,May,4,68.9,0.43,0.39,South,Far
+2235,South Dakota,May,4,67.1,0.53,0.37,Midwest,Far
+2236,Tennessee,May,4,66.9,0.48,0.36,South,Far
+2237,Texas,May,4,67.5,0.39,0.4,South,Far
+2238,Utah,May,4,64.2,0.54,0.3,West,Far
+2239,Vermont,May,4,69.4,0.29,0.57,Northeast,Far
+2240,Virginia,May,4,71.4,0.43,0.39,South,Far
+2241,Washington,May,4,71.7,0.33,0.44,West,Far
+2242,West Virginia,May,4,69.1,0.43,0.41,South,Far
+2243,Wisconsin,May,4,66,0.42,0.42,Midwest,Far
+2244,Wyoming,May,4,63.9,0.57,0.25,West,Far
