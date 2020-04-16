@@ -1,8 +1,9 @@
 library(ggplot2)
 library(mosaic)
 age_dat <- read.csv("https://raw.githubusercontent.com/Tanvi-Jindal/Vaccination-Mapping/master/age_data.csv")
-age_dat$Age_Group <- as.factor(age_dat$Age_Group)
+age_dat$Age <- as.factor(age_dat$Age)
 age_dat$PopLog <- log(age_dat$Population)
+age_dat$sqrtVac <- sqrt(age_dat$Vaccine)
 age_dat <- age_dat[which(age_dat$Month != "Jul"),]
 
 race_dat <- read.csv("https://raw.githubusercontent.com/Tanvi-Jindal/Vaccination-Mapping/master/race_data.csv")
@@ -37,6 +38,7 @@ ggplot(race_dat, aes(sqrtVac))+geom_density()+ labs(x="Vaccine Coverage (square 
 ggplot(race_dat, aes(sqrtVac, color = Season))+geom_density()+ labs(x="Vaccine Coverage", title="Density plot of Vaccination Rate \n by Season")
 ggplot(race_dat, aes(sqrtVac, color = Race))+geom_density()+ labs(x="Vaccine Coverage", title="Density plot of Vaccination Rate \n by Race")
 ggplot(race_dat, aes(sqrtVac, color = Race))+geom_density()+ labs(x="Vaccine Coverage", title="Density plot of Vaccination Rate \n by Race, by Season")+facet_grid(race_dat$Season)
+
 qqnorm(race_dat$Population)
 qqline(race_dat$Population)
 ggplot(race_dat, aes(Population))+geom_density() + labs(x = "Population Density", title = "Density Plot of Population Density")
@@ -44,7 +46,7 @@ ggplot(race_dat, aes(PopLog))+geom_density()+ labs(x = "Population Density (logg
 
 #models
 
-model1 <- lm(data = age_dat, Vaccine ~ Democratics.Rep.+Month+Age_Group+PopLog)
+model1 <- lm(data = age_dat, sqrtVac ~Region+ Republican.Rep. +Month+Age+PopLog+Region)
 summary(model1)
 qqnorm(model1$residuals)
 qqline(model1$residuals)
@@ -53,12 +55,7 @@ age_dat <- na.omit(age_dat)
 mod <- data.frame(age_dat, model1$residuals, model1$fitted.values)
 mplot(mod)
 
-model1b <- lm(data = age_dat, Vaccine ~ Democratics.Rep.+Month+Age_Group+PopLog+Age_Group*Month)
-summary(model1b)
-qqnorm(model1b$residuals)
-qqline(model1b$residuals)
-
-model2 <- lm(data = race_dat, sqrtVac ~ Democratics.Rep. +Month + Race + log(Population))
+model2 <- lm(data = race_dat, sqrtVac ~ Region+ Republican.Rep. +Month + Race + log(Population))
 summary(model2)
 qqnorm(model2$residuals)
 qqline(model2$residuals)
@@ -66,54 +63,3 @@ qqline(model2$residuals)
 race_dat <- na.omit(race_dat)
 mod2 <- data.frame(race_dat, model2$residuals, model2$fitted.values)
 mplot(mod2)
-
-
-race_dat <- read.csv("https://raw.githubusercontent.com/Tanvi-Jindal/Vaccination-Mapping/master/race_data.csv")
-race_dat$Race <- relevel(race_dat$Race, "White")
-
-#for the data
-qqnorm(age_dat$Vaccine)
-qqline(age_dat$Vaccine)
-hist(age_dat$Vaccine) #We can see another peak around 0
-ggplot(age_dat, aes(Vaccine))+geom_density()
-ggplot(age_dat, aes(Vaccine, color = Season))+geom_density()
-ggplot(age_dat, aes(Vaccine, color = Age_Group))+geom_density()
-
-qqnorm(age_dat$Population)
-qqline(age_dat$Population)
-ggplot(age_dat, aes(Population))+geom_density()
-age_dat$PopLog <- log(age_dat$Population)
-ggplot(age_dat, aes(PopLog))+geom_density()
-
-qqnorm(race_dat$Vaccine)
-qqline(race_dat$Vaccine)
-hist(race_dat$Vaccine) #We can see another peak around 0
-ggplot(race_dat, aes(Vaccine))+geom_density()
-ggplot(race_dat, aes(Vaccine, color = Season))+geom_density()
-ggplot(race_dat, aes(Vaccine, color = Race))+geom_density()
-
-qqnorm(race_dat$Population)
-qqline(race_dat$Population)
-ggplot(race_dat, aes(Population))+geom_density()
-race_dat$PopLog <- log(race_dat$Population)
-ggplot(race_dat, aes(PopLog))+geom_density()
-
-#models
-model1 <- lm(data = age_dat, Vaccine ~ Democratics.Rep.+Season+Age_Group+log(Population))
-summary(model1)
-qqnorm(model1$residuals)
-qqline(model1$residuals)
-
-mod <- data.frame(age_dat, model1$residuals, model1$fitted.values)
-mplot(mod)
-
-model1b <- lm(data = age_dat, Vaccine ~ Democratics.Rep.+Season+Age_Group+log(Population)+Age_Group*Season)
-summary(model1b)
-
-model2 <- lm(data = race_dat, Vaccine ~ Democratics.Rep. +Season + Race + log(Population))
-summary(model2)
-qqnorm(model2$residuals)
-qqline(model2$residuals)
-
-model2b <- lm(data = race_dat, Vaccine ~ Democratics.Rep.+Season+Race+log(Population)+Race*Season)
-summary(model2b)
