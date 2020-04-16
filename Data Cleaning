@@ -48,7 +48,6 @@ dat1$Vaccine[dat1$Vaccine == "NR †"] <- "0"
 dat1$Vaccine <- as.numeric(dat1$Vaccine)
 dat1 <- group_by(dat1, Names, month, Age_Group) %>% summarize(vaccine = mean(Vaccine))
 dat1$State <- as.factor(dat1$State)
-levels(dat1$Month) <- c("Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr")
 
 dat <- dat1 %>% group_by(Names, Age_Group) %>% mutate(Vax = Vaccine - lag(Vaccine))
 dat$Vax[dat$month == "Jul"] <- dat$Vaccine[dat$month == "Jul"]
