@@ -1,53 +1,24 @@
 library(ggplot2)
 library(mosaic)
+library(car)
+library(fitdistrplus)
+
 age_dat <- read.csv("https://raw.githubusercontent.com/Tanvi-Jindal/Vaccination-Mapping/master/age_data.csv")
 age_dat$Age <- as.factor(age_dat$Age)
 age_dat$PopLog <- log(age_dat$Population)
 age_dat$sqrtVac <- sqrt(age_dat$Vaccine)
-age_dat <- age_dat[which(age_dat$Month != "Jul"),]
+age_dat$Month <- factor(age_dat$Month, levels = c("Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr"))
 
 race_dat <- read.csv("https://raw.githubusercontent.com/Tanvi-Jindal/Vaccination-Mapping/master/race_data.csv")
 race_dat$Race <- relevel(race_dat$Race, "White")
 race_dat$PopLog <- log(race_dat$Population)
 race_dat$sqrtVac <- sqrt(race_dat$Vaccine)
-race_dat <- race_dat[which(race_dat$Month != "Jul"),]
-
-#for the data
-qqnorm(age_dat$Vaccine)
-qqline(age_dat$Vaccine)
-hist(age_dat$Vaccine) #We can see another peak around 0
-ggplot(age_dat, aes(Vaccine))+geom_density()+ labs(x="Vaccine Coverage", title="Density plot of Vaccination Rate")
-ggplot(age_dat, aes(Vaccine, color = Season))+geom_density()+ labs(x="Vaccine Coverage", title="Density plot of Vaccination Rate \n by Season")
-ggplot(age_dat, aes(Vaccine, color = Age_Group))+geom_density()+ labs(x="Vaccine Coverage", title="Density plot of Vaccination Rate \n by Age Group")
-ggplot(age_dat, aes(Vaccine, color = Age_Group))+geom_density()+ facet_grid(age_dat$Season) + labs(x="Vaccine Coverage", title="Density plot of Vaccination Rate \n by Age Group")
-
-
-qqnorm(age_dat$Population)
-qqline(age_dat$Population)
-ggplot(age_dat, aes(Population))+geom_density()
-ggplot(age_dat, aes(PopLog))+geom_density()
-
-qqnorm(race_dat$Vaccine, main = "Normal Q-Q Plot for Vaccine Coverage Rates")
-qqline(race_dat$Vaccine)
-ggplot(race_dat, aes(Vaccine))+geom_density()+ labs(x="Vaccine Coverage", title="Density plot of Vaccination Rate")
-
-qqnorm(race_dat$sqrtVac, main = "Normal Q-Q Plot for Vaccine Coverage Rates (square rooted)")
-qqline(race_dat$sqrtVac)
-ggplot(race_dat, aes(sqrtVac))+geom_density()+ labs(x="Vaccine Coverage (square root)", title="Density plot of Vaccination Rate")
-
-ggplot(race_dat, aes(sqrtVac, color = Season))+geom_density()+ labs(x="Vaccine Coverage", title="Density plot of Vaccination Rate \n by Season")
-ggplot(race_dat, aes(sqrtVac, color = Race))+geom_density()+ labs(x="Vaccine Coverage", title="Density plot of Vaccination Rate \n by Race")
-ggplot(race_dat, aes(sqrtVac, color = Race))+geom_density()+ labs(x="Vaccine Coverage", title="Density plot of Vaccination Rate \n by Race, by Season")+facet_grid(race_dat$Season)
-
-qqnorm(race_dat$Population)
-qqline(race_dat$Population)
-ggplot(race_dat, aes(Population))+geom_density() + labs(x = "Population Density", title = "Density Plot of Population Density")
-ggplot(race_dat, aes(PopLog))+geom_density()+ labs(x = "Population Density (logged)", title = "Density Plot of Population Density (logged)")
+race_dat$Month <- factor(race_dat$Month, levels = c("Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr"))
 
 #models
 
-model1 <- lm(data = age_dat, sqrtVac ~Region+ Republican.Rep. +Month+Age+PopLog+Region)
-summary(model1)
+model1 <- lm(data = age_dat, sqrtVac ~Region+ Republican.Rep. + Month +Age+PopLog + Age:Month)
+anova(model1)
 qqnorm(model1$residuals)
 qqline(model1$residuals)
 
@@ -55,8 +26,8 @@ age_dat <- na.omit(age_dat)
 mod <- data.frame(age_dat, model1$residuals, model1$fitted.values)
 mplot(mod)
 
-model2 <- lm(data = race_dat, sqrtVac ~ Region+ Republican.Rep. +Month + Race + log(Population))
-summary(model2)
+model2 <- lm(data = race_dat, sqrtVac ~ Region+ Republican.Rep. +Month + Race + PopLog + Month:Race)
+anova(model2)
 qqnorm(model2$residuals)
 qqline(model2$residuals)
 
